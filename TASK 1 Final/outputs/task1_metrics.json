@@ -1,0 +1,29 @@
+{
+  "sentiment_zero_shot_overall_accuracy": 0.75,
+  "sentiment_zero_shot_per_class_accuracy": {
+    "positive": 0.6471,
+    "negative": 0.9091,
+    "neutral": 0.697
+  },
+  "sentiment_few_shot_overall_accuracy": 0.63,
+  "sentiment_few_shot_per_class_accuracy": {
+    "positive": 0.7647,
+    "negative": 0.7576,
+    "neutral": 0.3636
+  },
+  "topic_zero_shot_overall_accuracy_vs_weak_label": 0.65,
+  "topic_zero_shot_per_class_accuracy": {
+    "Match Play": 0.9048,
+    "Referees": 0.2286,
+    "Logistics/Hosting": 0.0
+  },
+  "topic_system_role_overall_accuracy_vs_weak_label": 0.8,
+  "topic_system_role_per_class_accuracy": {
+    "Match Play": 0.9524,
+    "Referees": 0.5429,
+    "Logistics/Hosting": 0.5
+  },
+  "entity_structured_json_valid_rate": 1.0,
+  "entity_structured_avg_players_per_tweet": 1.23,
+  "entity_structured_avg_teams_per_tweet": 3.36
+}

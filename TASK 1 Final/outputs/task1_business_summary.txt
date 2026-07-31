@@ -1,0 +1,12 @@
+**Summary of LLM-based Sentiment/Topic/Entity Pipeline Evaluation Metrics**
+
+The evaluation metrics from the LLM-based sentiment/topic/entity pipeline run on FIFA World Cup 2022 fan tweets indicate a mixed performance across different prompt strategies.
+
+**Prompt Engineering Improvement:**
+While the overall accuracy improved slightly with zero-shot and few-shot approaches, the improvement was not substantial. The few-shot approach showed better results for positive sentiment classification, but its neutral class accuracy was lower compared to the zero-shot approach.
+
+**Best Prompt Strategy:**
+The best-performing prompt strategy was the zero-shot approach, which achieved an overall accuracy of 0.75 and high per-class accuracy for negative sentiment (0.9091) and Match Play topic (0.9048). This suggests that the model performed well on well-defined classes with clear labels.
+
+**Practical Recommendation:**
+For media analysts monitoring fan sentiment at the next tournament, a practical recommendation is to use a combination of zero-shot and few-shot approaches for sentiment classification, leveraging the strengths of each strategy. Additionally, incorporating additional training data or fine-tuning the model on specific topics or entities can further improve accuracy and provide more actionable insights for media analysis.

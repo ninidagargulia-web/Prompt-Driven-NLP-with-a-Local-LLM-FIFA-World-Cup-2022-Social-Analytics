@@ -1,0 +1,1401 @@
+tweet_id,tweet,true_sentiment,sentiment_zero_shot_raw,sentiment_zero_shot_pred,sentiment_zero_shot_correct,sentiment_few_shot_raw,sentiment_few_shot_pred,sentiment_few_shot_correct,weak_topic_label,topic_zero_shot_raw,topic_zero_shot_pred,topic_zero_shot_correct,topic_system_role_raw,topic_system_role_pred,topic_system_role_correct,entity_zero_shot_raw,entity_structured_raw,entity_structured_json_valid,entity_structured_players,entity_structured_teams,entity_structured_venues
+1,"#WorldCup2022 final four prediction: Spain/Argentina and Denmark/Uruguay. Germany, France, Croatia, Brazil all out at the group stage 😳",neutral,Neutral,neutral,1,"Based on the tweet's content, I would classify its sentiment as:
+
+Neutral
+
+The tweet is a neutral statement about making predictions for the World Cup final four, without expressing any emotions or opinions about the outcome. It simply presents information and makes a prediction, without taking a stance or showing enthusiasm.",neutral,1,Match Play,Match Play,Match Play,1,Match Play,Match Play,1,"Here are the extracted named entities:
+
+1. Player Names:
+	* None mentioned in this tweet.
+2. Team/Country Names:
+	* Spain
+	* Argentina
+	* Denmark
+	* Uruguay
+	* Germany
+	* France
+	* Croatia
+	* Brazil
+3. Venues:
+	* None mentioned in this tweet (it's a prediction, not a specific event).","{""players"": [], ""teams"": [""Spain"", ""Argentina"", ""Denmark"", ""Uruguay""], ""venues"": []}",1,[],"[""Spain"", ""Argentina"", ""Denmark"", ""Uruguay""]",[]
+2,"I hope an African country wins the World Cup. This will be a win for the continent. COME ON Cameroon, Ghana, Morocco, Tunisia, and continental champion Senegal #WorldCup2022",positive,Positive,positive,1,"Based on the tweet's content, I would classify its sentiment as:
+
+Positive
+
+Although the tweet mentions several African countries that are not winning, it ends with a positive statement about one of them (""continental champion"") and includes an enthusiastic hashtag (#WorldCup2022). The overall tone is optimistic and supportive.",positive,1,Match Play,Match Play,Match Play,1,Match Play,Match Play,1,"Here are the extracted named entities:
+
+**Player Names:** None mentioned in this tweet.
+
+**Team/Country Names:**
+
+1. Cameroon
+2. Ghana
+3. Morocco
+4. Tunisia
+5. Senegal
+
+**Venues:** None mentioned in this tweet.","{""players"": [""Cameroon"", ""Ghana"", ""Morocco"", ""Tunisia""], ""teams"": [""Cameroon"", ""Ghana"", ""Morocco"", ""Tunisia"", ""Senegal""], ""venues"": []}",1,"[""Cameroon"", ""Ghana"", ""Morocco"", ""Tunisia""]","[""Cameroon"", ""Ghana"", ""Morocco"", ""Tunisia"", ""Senegal""]",[]
+3,Tomorrow is the beginning of the World Cup in #Qatar2022 this might be the last time we see these two icons on the biggest football ⚽️ stage. #WorldCup2022 #WorldCup #CR7 #Messi𓃵 #CR7𓃵 #Messi #soccer #football #futbol #Argentina #Portugal @LouisVuitton,positive,Neutral,neutral,0,"The sentiment of the tweet is: positive
+
+Although the tweet mentions that it might be the last time to see two icons on the biggest stage, the overall tone and language used (""What a beginning"", ""the biggest football ⚽️ stage"") convey excitement and appreciation for the upcoming World Cup.",positive,1,Match Play,Match Play,Match Play,1,'Match Play',Match Play,1,"Here are the extracted named entities:
+
+1. Player Names:
+	* CR7 (Cristiano Ronaldo)
+	* Messi (Lionel Messi)
+2. Team/Country Names:
+	* Argentina
+	* Portugal
+3. Venue:
+	* Qatar (referring to the 2022 FIFA World Cup in Qatar)","{""players"": [""CR7"", ""Messi""], ""teams"": [""Argentina"", ""Portugal""], ""venues"": []}",1,"[""CR7"", ""Messi""]","[""Argentina"", ""Portugal""]",[]
+4,My favorites to win The World Cup 2022 are: 1- Brazil. 2- France. 3- Spain. #WorldCup #WorldCup2022 #Qatar2022 #QatarWorldCup2022,positive,positive,positive,1,"Based on the tweet, I would classify its sentiment as:
+
+Neutral
+
+The tweet is simply stating a prediction or opinion about which teams will win The World Cup 2022, without expressing any emotion or enthusiasm. It's more of a factual statement than an emotional expression.",neutral,0,Match Play,Match Play,Match Play,1,Match Play,Match Play,1,"Here is the list of extracted named entities:
+
+**Player Names:** None mentioned in this tweet.
+
+**Team/Country Names:**
+
+1. Brazil
+2. France
+3. Spain
+
+**Venues:** 
+
+1. Qatar (referring to the host country of the World Cup)","{""players"": [""Brazil"", ""France"", ""Spain""], ""teams"": [""Brazil"", ""France"", ""Spain""], ""venues"": []}",1,"[""Brazil"", ""France"", ""Spain""]","[""Brazil"", ""France"", ""Spain""]",[]
+5,2022 World Cup Futures: Spain Group Winner (-105) Brazil/Argentina Group Winners (-116) Argentina to Semifinals (+175) Argentina World Cup Winner (+500) GOLDEN BOOT 🪙👢: Neymar (+1300) Lionel Messi (+900) #WorldCup2022 #QatarWorldCup2022 #Qatar2022,neutral,Neutral,neutral,1,"Based on the tweet, I would classify its sentiment as neutral. The tweet is providing factual information about World Cup futures and odds, without expressing any emotion or opinion. It's a straightforward announcement of betting options, rather than an expression of enthusiasm or disappointment.",neutral,1,Match Play,Match Play,Match Play,1,Match Play,Match Play,1,"Here are the extracted named entities:
+
+1. Players:
+	* Neymar
+	* Lionel Messi
+2. Teams/Countries:
+	* Spain
+	* Brazil
+	* Argentina
+3. Venue:
+	* Qatar (specifically, the 2022 World Cup in Qatar)","{""players"": [""Neymar"", ""Lionel Messi""], ""teams"": [""Spain"", ""Brazil"", ""Argentina""], ""venues"": []}",1,"[""Neymar"", ""Lionel Messi""]","[""Spain"", ""Brazil"", ""Argentina""]",[]
+6,"FIFA World Cup is one of the most-watched sporting events in the world—in 2018, nearly 3.6 billion people tuned in to watch the tournament. #Brazil #Belgium #Argentina #France #England are the top 5 ranked teams this #QatarWorldCup2022 #Qatar2022 #WorldCup2022 #WorldCup",positive,Neutral,neutral,0,"Based on the tweet, I would classify its sentiment as:
+
+positive
+
+Although the tweet mentions some specific teams (Brazil, Belgium, Argentina, France, and England) that are ranked highly, it also highlights a positive aspect of the FIFA World Cup (its massive global viewership). The tone is informative and celebratory, suggesting a generally positive sentiment.",positive,1,Match Play,Match Play,Match Play,1,Match Play,Match Play,1,"Here is the list of extracted named entities:
+
+1. Player names:
+	* None mentioned in this tweet.
+2. Team/country names:
+	* Brazil
+	* Belgium
+	* Argentina
+	* France
+	* England
+3. Venue:
+	* Qatar (referring to the host country of the 2022 FIFA World Cup)","{""players"": [], ""teams"": [""Brazil"", ""Belgium"", ""Argentina"", ""France"", ""England""], ""venues"": []}",1,[],"[""Brazil"", ""Belgium"", ""Argentina"", ""France"", ""England""]",[]
+7,Ballon dor winner Karim Benzema is set to miss the world up after picking up a thigh injury❌ in Training. He is out of France 🇫🇷 26 man squad. #QatarWorldCup2022 #FIFAWorldCup #WorldCup2022 @SportsXentral,negative,negative,negative,1,"Negative.
+
+Although the tweet mentions a positive event (winning the Ballon d'Or), it also contains negative information about Karim Benzema's injury, which is presented as a significant setback for France. The tone of the tweet is overall critical and disappointed.",positive,0,Match Play,Match Play,Match Play,1,Match Play,Match Play,1,"Here are the extracted named entities:
+
+1. Player Names:
+	* Karim Benzema
+2. Team/Country Names:
+	* France
+3. Venue: 
+	* Qatar (Note: The venue is not explicitly mentioned, but it can be inferred that the tweet is referring to the 2022 FIFA World Cup in Qatar)","{""players"": [""Karim Benzema""], ""teams"": [""France""], ""venues"": []}",1,"[""Karim Benzema""]","[""France""]",[]
+8,Everyone's* been asking me for my #WorldCup2022 predictions so here they are! Winner: Brazil Final Four: Argentina/Brazil/Uruguay/England Golden Boot: Richarlison Biggest Loser: France Surprise Team: Uruguay USA: Finishes THIRD in Group. #FireGregg *No one cares what I think!,neutral,negative,negative,0,"Based on the tweet, I would classify its sentiment as:
+
+negative
+
+Although the tweet starts with a positive statement (""Everyone's been asking me...""), it quickly turns negative with phrases like ""*No one cares what I think!"" and ""Biggest Loser: France"", which implies disappointment and frustration. The tone of the tweet is also somewhat sarcastic, adding to its overall negative sentiment.",positive,0,Match Play,Match Play,Match Play,1,Match Play,Match Play,1,"Here are the extracted named entities:
+
+**Player Names:**
+
+1. Richarlison
+2. Gregg (presumably referring to Gregg Berhalter, the US coach)
+
+**Team/Country Names:**
+
+1. Brazil
+2. Argentina
+3. Uruguay
+4. England
+5. France
+6. USA
+
+**Venues:**
+
+None mentioned in this tweet.","{""players"": [""Richarlison""], ""teams"": [""Brazil"", ""Argentina"", ""Uruguay"", ""England"", ""France"", ""USA""], ""venues"": []}",1,"[""Richarlison""]","[""Brazil"", ""Argentina"", ""Uruguay"", ""England"", ""France"", ""USA""]",[]
+9,I predict Brazil vs England or Germany at the Finals. Brazil are surely taking this one. #Qatar2022 #FIFAWorldCup #QatarWorldCup2022 #WorldCup2022,positive,positive,positive,1,"Based on the tweet, I would classify its sentiment as:
+
+Positive
+
+Although the tweet mentions a prediction of Brazil's potential win, it also includes phrases like ""I predict"" and ""#Brazil"", which suggest confidence in their chances. The tone is optimistic and enthusiastic, indicating a positive sentiment towards Brazil's prospects.",positive,1,Match Play,Match Play,Match Play,1,Match Play,Match Play,1,"Here are the extracted named entities:
+
+1. Player names:
+	* None mentioned in this tweet.
+2. Team/country names:
+	* Brazil
+	* England
+	* Germany
+3. Venue:
+	* Qatar (referring to the host country of the FIFA World Cup)","{""players"": [], ""teams"": [""Brazil"", ""England"", ""Germany""], ""venues"": []}",1,[],"[""Brazil"", ""England"", ""Germany""]",[]
+10,"Today's FIFA World Cup game: 🇶🇦 Qatar vs Ecuador 🇪🇨 It is finally the opening day of the World Cup! Will the hosts get the win, or will Ecuador get off to a fantastic start? #TheGoalpostNews #QatarEcuador #Qatar #Ecuador #WorldCup #FIFAWorldCup #WC2022 #Qatar2022 #WorldCup2022",positive,Neutral,neutral,0,"I'd classify the sentiment of this tweet as neutral. The tweet is simply providing information about an upcoming match, including the teams and time, without expressing a personal opinion or emotion. It's more informative than emotive.",neutral,0,Match Play,Match Play,Match Play,1,'Match Play',Match Play,1,"Here are the extracted named entities:
+
+1. Player names: None mentioned in this tweet.
+2. Team/country names:
+	* Qatar
+	* Ecuador
+3. Venue: None mentioned in this tweet (although it's implied that the game is being played at a FIFA World Cup venue, no specific name is given).","{""players"": [], ""teams"": [""Qatar"", ""Ecuador""], ""venues"": []}",1,[],"[""Qatar"", ""Ecuador""]",[]
+11,Could we have an 🇦🇷 Argentina vs England 🏴󠁧󠁢󠁥󠁮󠁧󠁿 final? It’s definitely a possibility! Shades of 86! Just imagine @TeamMessi doing a #Maradona! 😀 #FIFAWorldCup #WorldCup2022 #Qatar2022,positive,positive,positive,1,"Positive.
+
+The tweet expresses excitement and optimism about the possibility of Argentina vs England in the final, referencing a past match (the 1986 World Cup) and a famous player (Maradona), with enthusiastic language and emojis.",positive,1,Match Play,Match Play,Match Play,1,Match Play,Match Play,1,"Here are the extracted named entities:
+
+1. Player names:
+	* Lionel Messi (as @TeamMessi)
+	* Maradona
+2. Team/country names:
+	* Argentina (🇦🇷)
+	* England (🏴󠁧󠁢󠁥󠁮󠁧󠁿)
+3. Venue:
+	* Qatar (implied by the mention of ""Qatar2022"", but not a specific venue)","{""players"": [""@TeamMessi""], ""teams"": [""Argentina"", ""England""], ""venues"": []}",1,"[""@TeamMessi""]","[""Argentina"", ""England""]",[]
+12,"1. No European Champions 2. No Benzema, Kante, Pogba, Mane, Werner, Reece James, Chilwell, Jota and many more 3. Ronaldo, Messi past their prime 4. No footballing heritage in Qatar 5. Restrictions on fans Most boring World Cup ??? #FIFAWorldCup #Qatar2022 #WorldCup2022",negative,Negative,negative,1,"Based on the tweet's content, I would classify its sentiment as:
+
+negative
+
+The user is expressing frustration and disappointment with various aspects of the World Cup, including the lack of top European players, the perceived decline in quality of the game, and restrictions on fans. The use of exclamation marks and hashtags like ""#Most boring World Cup"" also convey a strong negative tone.",negative,1,Match Play,Referees,Referees,0,'Match Play',Match Play,1,"Here are the extracted named entities:
+
+**Player Names:**
+
+1. Benzema
+2. Kante
+3. Pogba
+4. Mane
+5. Werner
+6. Reece James
+7. Chilwell
+8. Jota
+9. Ronaldo
+10. Messi
+
+**Team/Country Names:**
+
+1. Qatar (country)
+2. France (team, implied by Kante and Pogba)
+
+**Venues:**
+
+ None mentioned in the tweet.
+
+Note that some of these entities may be related to teams or countries, but not explicitly mentioned as venues.","{""players"": [""Benzema"", ""Kante"", ""Pogba"", ""Mane"", ""Werner"", ""Reece James"", ""Chilwell"", ""Jota""], ""teams"": [], ""venues"": []}",1,"[""Benzema"", ""Kante"", ""Pogba"", ""Mane"", ""Werner"", ""Reece James"", ""Chilwell"", ""Jota""]",[],[]
+13,My 2022 WORLD CUP PREDICTIONS Group A Senegal 🇸🇳 Ecuador 🇪🇨 Netherlands 🇳🇱 Qatar 🇶🇦 Group B England 🏴󠁧󠁢󠁥󠁮󠁧󠁿 USA 🇺🇸 Wales 🏴󠁧󠁢󠁷󠁬󠁳󠁿 Iran 🇮🇷 Group C Poland 🇵🇱 Argentina 🇦🇷 Mexico 🇲🇽 Saudi Arabia 🇸🇦 Group D France 🇫🇷 Denmark 🇩🇰 Australia 🇦🇺 Tunisia 🇹🇳 #WorldCup2022 #WorldCup,neutral,Neutral,neutral,1,"The sentiment of the tweet is neutral. The tweet appears to be a prediction or forecast for the 2022 World Cup, and it does not express any emotions or opinions about the tournament itself. It simply lists teams in different groups without any evaluative language.",neutral,1,Match Play,Match Play,Match Play,1,Match Play,Match Play,1,"Here are the extracted named entities:
+
+**Player Names:** None mentioned in this tweet.
+
+**Team/Country Names:**
+
+1. Senegal
+2. Ecuador
+3. Netherlands
+4. Qatar
+5. England
+6. USA
+7. Wales
+8. Iran
+9. Poland
+10. Argentina
+11. Mexico
+12. Saudi Arabia
+13. France
+14. Denmark
+15. Australia
+16. Tunisia
+
+**Venues:** None mentioned in this tweet.","{""players"": [], ""teams"": [""Senegal"", ""Ecuador"", ""Netherlands"", ""Qatar"", ""England"", ""USA"", ""Wales"", ""Iran"", ""Poland"", ""Argentina"", ""Mexico"", ""Saudi Arabia"", ""France"", ""Denmark"", ""Australia"", ""Tunisia""], ""venues"": []}",1,[],"[""Senegal"", ""Ecuador"", ""Netherlands"", ""Qatar"", ""England"", ""USA"", ""Wales"", ""Iran"", ""Poland"", ""Argentina"", ""Mexico"", ""Saudi Arabia"", ""France"", ""Denmark"", ""Australia"", ""Tunisia""]",[]
+14,So- the World Cup is here! What’s the first World Cup you remember watching? I remember Mexico 86 🇲🇽-especially the England Vs Argentina game 🖐️ You? ⚽️ #WorldCup2022,positive,Neutral,neutral,0,"Positive.
+
+The tweet expresses excitement and nostalgia for the World Cup, mentioning a memorable match from their past. The tone is enthusiastic and engaging, indicating a positive sentiment.",positive,1,Match Play,Match Play,Match Play,1,Match Play,Match Play,1,"Here are the extracted named entities:
+
+1. Player names:
+	* None mentioned directly, but the teams mentioned have notable players.
+2. Team/country names:
+	* Mexico
+	* England
+	* Argentina
+3. Venue: 
+	* None mentioned in this tweet (the World Cup is a global tournament with multiple venues)","{""players"": [""England"", ""Argentina""], ""teams"": [""Mexico"", ""England"", ""Argentina""], ""venues"": []}",1,"[""England"", ""Argentina""]","[""Mexico"", ""England"", ""Argentina""]",[]
+15,Most ill disciplined teams leading into #WorldCup2022? Top 5 🇪🇨Ecuador (avg 2.46 cards per game) 🏴󠁧󠁢󠁷󠁬󠁳󠁿Wales (avg 2.38) 🇵🇱Poland (avg 2.38) 🇦🇷Argentina (avg 2.29) 🇧🇷Brazil (avg 2.13) #betting #freetips,neutral,Neutral,neutral,1,"Based on the tweet, I would classify its sentiment as neutral.
+
+The tweet is providing factual information about the average number of cards per game for various teams leading into the World Cup, without expressing any opinion or emotion. It's a data-driven statement that doesn't convey a positive or negative tone.",positive,0,Match Play,Match Play,Match Play,1,Referees,Referees,0,"Here are the extracted named entities:
+
+1. Player names: None mentioned in this tweet.
+2. Team/country names:
+   - Ecuador
+   - Wales
+   - Poland
+   - Argentina
+   - Brazil
+
+3. Venue: None mentioned in this tweet.","{""players"": [], ""teams"": [""Ecuador"", ""Wales"", ""Poland"", ""Argentina"", ""Brazil""], ""venues"": []}",1,[],"[""Ecuador"", ""Wales"", ""Poland"", ""Argentina"", ""Brazil""]",[]
+16,World Cup 2022 Prediction Semi finalists Argentina Senegal Uruguay Spain Winner Argentina Golden Boot Argentinian Dark Horse Denmark Surprise Group Stage Exit Portugal/Belgium Source: Ochot-Odong Palm Readers Association [OPRAH] #WorldCup2022 #FIFAWorldCup,neutral,Neutral,neutral,1,"Based on the tweet, I would classify its sentiment as:
+
+Negative
+
+The tone of the tweet is sarcastic and mocking, implying that the World Cup prediction source (OPRAH) is not credible or trustworthy. The use of phrases like ""Ochot-Odong Palm Readers Association"" and ""[OPRAH]"" also adds to the negative connotation, suggesting that the information provided is likely to be inaccurate or unreliable.",negative,0,Match Play,Logistics/Hosting,Logistics/Hosting,0,Logistics/Hosting,Logistics/Hosting,0,"Here are the extracted named entities:
+
+1. Player Names:
+	* None mentioned in this tweet.
+2. Team/Country Names:
+	* Argentina
+	* Senegal
+	* Uruguay
+	* Spain
+	* Denmark
+	* Portugal
+	* Belgium
+3. Venues: 
+	* None mentioned in this tweet.","{""players"": [], ""teams"": [""Argentina"", ""Senegal"", ""Uruguay"", ""Spain"", ""Denmark""], ""venues"": []}",1,[],"[""Argentina"", ""Senegal"", ""Uruguay"", ""Spain"", ""Denmark""]",[]
+17,"🇶🇦 #FIFAWorldCupQatar2022, who will be crowned 🏆 Champion - Argentina 🥈 Second - Belgium 🥉 Third - Netherlands 🏅 Best Player - Lionel Messi ⚽️ Top Scorer - Romero Lukaku 🧤 Best Goalkeeper - Alison Becker 🏵️ Best Young Player - Pedri Mine 👆 Drop yours 👇 #WorldCup2022",neutral,Neutral,neutral,1,"Based on the tweet, I would classify its sentiment as:
+
+positive
+
+Although the tweet mentions several teams and players in a ranking format, which could be seen as neutral or objective, the overall tone of the message is enthusiastic and celebratory. The use of emojis (e.g., 🏆, ⚽️) and hashtags (#WorldCup2022) also convey excitement and positivity.",positive,0,Match Play,Match Play,Match Play,1,Match Play.,Match Play,1,"Here are the extracted named entities:
+
+1. Players:
+	* Lionel Messi
+	* Romero Lukaku
+	* Alison Becker
+	* Pedri Mine
+2. Teams/Countries:
+	* Argentina
+	* Belgium
+	* Netherlands
+3. Venue:
+	* Qatar (implied, as it's mentioned in the hashtag #FIFAWorldCupQatar2022)","{""players"": [""Lionel Messi"", ""Romero Lukaku"", ""Alison Becker"", ""Pedri Mine""], ""teams"": [""Argentina"", ""Belgium"", ""Netherlands""], ""venues"": []}",1,"[""Lionel Messi"", ""Romero Lukaku"", ""Alison Becker"", ""Pedri Mine""]","[""Argentina"", ""Belgium"", ""Netherlands""]",[]
+18,2 things start today our new online booking for our Christmas camps and the #WorldCup2022 Can't wait to see you all #christmas #camps #activekidsarehappykids #football #dodgeball #nerf #norfolk #kane #mbappe #messi #ronaldo,positive,Neutral,neutral,0,"The sentiment of this tweet is positive. Although it mentions a few unrelated topics (Christmas camps, dodgeball, and specific football players), the overall tone is enthusiastic and excited about the World Cup 2022. The use of hashtags like ""#activekidsarehappykids"" and ""#football"" also contributes to the positive sentiment.",positive,1,Match Play,Logistics/Hosting,Logistics/Hosting,0,Logistics/Hosting,Logistics/Hosting,0,"Here are the extracted named entities:
+
+1. Player names:
+	* Kane (presumably Harry Kane, but first name not specified)
+	* Mbappe (Kylian Mbappé)
+	* Messi (Lionel Messi)
+	* Ronaldo (Cristiano Ronaldo)
+
+2. Team/country names:
+	* None explicitly mentioned
+
+3. Venue:
+	* Norfolk","{""players"": [""Kane"", ""Mbappe"", ""Messi"", ""Ronaldo""], ""teams"": [], ""venues"": []}",1,"[""Kane"", ""Mbappe"", ""Messi"", ""Ronaldo""]",[],[]
+19,"4 years of waiting to see the 50th and 44th best teams in the world play in mid November. #FIFAWorldCup I feel ………… “disappointed” @FIFAcom #WorldCup2022 Argentina, Brazil, Germany, Portugal and Spain must be thinking they have a real chance here to win it outright.",negative,negative,negative,1,"Based on the tweet's content, I would classify its sentiment as:
+
+Negative
+
+Although the author is expressing excitement about the World Cup, their tone is one of disappointment and frustration with the tournament format. The use of phrases like ""ruined the match"" and ""disappointed"" convey a negative emotional state.",negative,1,Match Play,Match Play,Match Play,1,Match Play,Match Play,1,"Here are the extracted named entities:
+
+1. Player names:
+	* None mentioned in this tweet.
+2. Team/country names:
+	* Argentina
+	* Brazil
+	* Germany
+	* Portugal
+	* Spain
+3. Venue:
+	* None mentioned in this tweet (the FIFA World Cup is a global tournament, but the specific venue is not specified).","{""players"": [""Argentina"", ""Brazil"", ""Germany"", ""Portugal"", ""Spain""], ""teams"": [""Argentina"", ""Brazil"", ""Germany"", ""Portugal"", ""Spain""], ""venues"": []}",1,"[""Argentina"", ""Brazil"", ""Germany"", ""Portugal"", ""Spain""]","[""Argentina"", ""Brazil"", ""Germany"", ""Portugal"", ""Spain""]",[]
+20,"Expect a strong challenge from the South America favourites at the World Cup. Combined them for a series of name the finalists bets. Gone for Argentina v Spain at 40/1, Argentina v Germany (40), Brazil v Spain (33) and Brazil v Germany (33) #WorldCup2022 #WorldCup #FIFAWorldCup",positive,Neutral,neutral,0,"Based on the tweet's content, I would classify its sentiment as:
+
+Neutral
+
+The tweet is providing factual information about upcoming World Cup matches and odds, without expressing any emotions or opinions. It appears to be a neutral, informative post from a sports fan.",neutral,0,Match Play,Match Play,Match Play,1,Match Play,Match Play,1,"Here are the extracted named entities:
+
+**Player Names:** None mentioned in this tweet.
+
+**Team/Country Names:**
+
+1. Argentina
+2. Spain
+3. Brazil
+4. Germany
+
+**Venues:** None mentioned in this tweet.","{""players"": [""Argentina"", ""Spain"", ""Germany"", ""Brazil""], ""teams"": [""Argentina"", ""Spain"", ""Germany"", ""Brazil""], ""venues"": []}",1,"[""Argentina"", ""Spain"", ""Germany"", ""Brazil""]","[""Argentina"", ""Spain"", ""Germany"", ""Brazil""]",[]
+21,"#WorldCup2022 complete guesses Champ: Brazil Golden Boot: Darwin Nuñez Group A: Netherlands, Senegal B: England, USA C: Argentina, Poland D: France, Denmark E: Germany, Spain F: Belgium, Canada G: Brazil, Switzerland H: Uruguay, Portugal",neutral,Neutral,neutral,1,"Based on the tweets provided:
+
+1. ""What a goal! Best World Cup ever!"" - Positive
+2. ""This referee is a disgrace, ruined the match."" - Negative
+3. ""The match starts at 18:00 local time."" - Neutral
+4. ""#WorldCup2022 complete guesses Champ: Brazil Golden Boot: Darwin Nuñez Group A: Netherlands, Senegal B: England, USA C: Argentina, Poland D: France, Denmark E: Germany, Spain F: Belgium, Canada G: Brazil, Switzerland H: Uruguay, Portugal"" - Neutral (This is a list of predictions or guesses, it doesn't express any emotion or opinion)",positive,0,Match Play,Match Play,Match Play,1,Match Play,Match Play,1,"Here are the extracted named entities:
+
+**Player Names:** None mentioned in this tweet.
+
+**Team/Country Names:**
+
+1. Netherlands
+2. Senegal
+3. England
+4. USA
+5. Argentina
+6. Poland
+7. France
+8. Denmark
+9. Germany
+10. Spain
+11. Belgium
+12. Canada
+13. Brazil
+14. Switzerland
+15. Uruguay
+16. Portugal
+
+**Venues:** None mentioned in this tweet.","{""players"": [], ""teams"": [""Netherlands"", ""Senegal"", ""England"", ""USA"", ""Argentina"", ""Poland"", ""France"", ""Denmark"", ""Germany"", ""Spain"", ""Belgium"", ""Canada"", ""Brazil"", ""Switzerland"", ""Uruguay"", ""Portugal""], ""venues"": []}",1,[],"[""Netherlands"", ""Senegal"", ""England"", ""USA"", ""Argentina"", ""Poland"", ""France"", ""Denmark"", ""Germany"", ""Spain"", ""Belgium"", ""Canada"", ""Brazil"", ""Switzerland"", ""Uruguay"", ""Portugal""]",[]
+22,"Finally the World Cup is here !!!! Not the most exciting game to get things started, but I'll take it !!! Let's hope it's a decent tournament with a lot of good Football !!! #WorldCup #QatarWorldCup2022 #WorldCup2022 #Messi #Neymar #Mbappe #Argentina #Brazil",positive,Positive,positive,1,"The sentiment of the tweet is: positive
+
+Although the author mentions that it's not the most exciting game to start with, they express enthusiasm and optimism about the tournament as a whole. The use of exclamation marks and hashtags like ""#WorldCup"" and ""#Football"" also convey a sense of excitement and positivity.",positive,1,Match Play,Match Play,Match Play,1,Match Play,Match Play,1,"Here are the extracted named entities:
+
+1. Player Names:
+	* Messi (Lionel Messi)
+	* Neymar
+	* Mbappe (Kylian Mbappé)
+
+2. Team/Country Names:
+	* Argentina
+	* Brazil
+
+3. Venue:
+	* Qatar (referring to the host country of the 2022 FIFA World Cup)","{""players"": [""Messi"", ""Neymar"", ""Mbappe""], ""teams"": [""Argentina"", ""Brazil""], ""venues"": []}",1,"[""Messi"", ""Neymar"", ""Mbappe""]","[""Argentina"", ""Brazil""]",[]
+23,World Cup - Group A Ecuador Netherlands Qatar Senegal Today's match - Qatar vs Ecuador Tomorrow's match - Netherlands vs Senegal #worldcup2022,neutral,Neutral,neutral,1,"Based on the tweet, I would classify its sentiment as:
+
+Neutral
+
+The tweet is simply providing information about the World Cup schedule and does not express any opinion or emotion. It is a factual statement without any positive or negative tone.",positive,0,Match Play,Match Play,Match Play,1,Match Play,Match Play,1,"Here are the extracted named entities:
+
+**Player Names:** None mentioned in this tweet.
+
+**Team/Country Names:**
+
+1. Ecuador
+2. Netherlands
+3. Qatar
+4. Senegal
+
+**Venues:** None mentioned in this tweet, but it's implied that the matches will be played at a World Cup venue (not specified).","{""players"": [""Ecuador"", ""Netherlands"", ""Qatar"", ""Senegal""], ""teams"": [""Ecuador"", ""Netherlands"", ""Qatar"", ""Senegal""], ""venues"": []}",1,"[""Ecuador"", ""Netherlands"", ""Qatar"", ""Senegal""]","[""Ecuador"", ""Netherlands"", ""Qatar"", ""Senegal""]",[]
+24,"Backed Lionel Messi at 12/1 to finish top goalscorer at the World Cup. Also on Neymar at 12/1. Messi looks ready to lead Argentina's challenge in a weak group and Neymar, who has Pele's record in sight, will be the focal point of Brazil's attack #FifaWorldCup #WorldCup2022",positive,positive,positive,1,"Based on the tweet content, I would classify its sentiment as:
+
+positive
+
+Although the tweet mentions a ""weak group"" and references a rival player (Neymar), the overall tone is optimistic and enthusiastic about the potential of Lionel Messi and Neymar to perform well in the World Cup. The use of phrases like ""looks ready to lead Argentina's challenge"" and ""#FifaWorldCup #WorldCup2022"" also convey a positive sentiment.",positive,1,Match Play,Match Play,Match Play,1,Match Play,Match Play,1,"Here are the extracted named entities:
+
+**Player Names:**
+
+1. Lionel Messi
+2. Neymar
+3. Pele
+
+**Team/Country Names:**
+
+1. Argentina
+2. Brazil
+
+**Venues:**
+None mentioned in this tweet (it's likely referring to a general venue, but no specific one is mentioned)","{""players"": [""Lionel Messi"", ""Neymar""], ""teams"": [""Argentina"", ""Brazil""], ""venues"": []}",1,"[""Lionel Messi"", ""Neymar""]","[""Argentina"", ""Brazil""]",[]
+25,"France has adopted a different approach to the #WorldCup2022 in #Qatar than most of its European rivals. While the likes of England, Denmark and Germany will virtue signal their disapproval on various issues, France is set to remain silent...",neutral,Negative,negative,0,"Based on the tweet's content, I would classify the sentiment as neutral.
+
+The tweet provides factual information about France's approach to the World Cup in Qatar, without expressing a personal opinion or emotion. It presents a neutral observation of the situation, without taking a stance or using emotive language.",neutral,1,Referees,Referees,Referees,1,Match Play,Match Play,0,"Here are the extracted named entities:
+
+1. Player names: None
+2. Team/country names:
+	* France
+	* England
+	* Denmark
+	* Germany
+3. Venue: Qatar (specifically, the #WorldCup2022 in Qatar)","{""players"": [], ""teams"": [""England"", ""Denmark"", ""Germany""], ""venues"": []}",1,[],"[""England"", ""Denmark"", ""Germany""]",[]
+26,"Is about time, supporting all African countries.. Spain 🇪🇸 Brazil 🇧🇷 Croatia 🇭🇷 And Belgium 🇧🇪 Let's go.. #WorldCup #WorldCup2022",positive,Positive,positive,1,"Positive.
+
+The tweet expresses enthusiasm and support for the World Cup, mentioning specific countries and using a celebratory tone. The use of ""Let's go"" also adds to the positive sentiment.",positive,1,Match Play,Match Play,Match Play,1,Match Play,Match Play,1,"Here are the extracted named entities:
+
+1. Player names: None
+2. Team/country names:
+	* Spain
+	* Brazil
+	* Croatia
+	* Belgium
+3. Venue: None (mentioned in the tweet, but no specific venue is mentioned)","{""players"": [], ""teams"": [""Spain"", ""Brazil"", ""Croatia"", ""Belgium""], ""venues"": []}",1,[],"[""Spain"", ""Brazil"", ""Croatia"", ""Belgium""]",[]
+27,"So here are my #WorldCup2022 hot takes; I’m no longer backing #Argentina, but instead Uruguay, #England to reach the semis, @BukayoSaka87 to be the breakout star, #Belgium to not get out the group, Nunez, golden boot winner #WorldCup #QatarWorldCup2022",neutral,Positive,positive,0,"Based on the content of the tweet, I would classify its sentiment as:
+
+positive
+
+Although the tweet mentions some negative predictions (e.g., Argentina not reaching the semis), it also expresses optimism and excitement about other teams and players, which outweighs the negative tone. The use of hashtags like ""#WorldCup #QatarWorldCup2022"" and ""#hot takes"" suggests a lighthearted and enthusiastic tone, further indicating a positive sentiment overall.",positive,0,Match Play,Match Play,Match Play,1,Match Play,Match Play,1,"Here are the extracted named entities:
+
+1. Player names:
+	* BukayoSaka
+	* Nunez
+2. Team/country names:
+	* Argentina
+	* Uruguay
+	* England
+	* Belgium
+3. Venue:
+	* Qatar World Cup (note: ""QatarWorldCup2022"" is a hashtag, but in this context, it refers to the venue)","{""players"": [""Nunez"", ""BukayoSaka87""], ""teams"": [""Argentina"", ""Uruguay"", ""England"", ""Belgium""], ""venues"": []}",1,"[""Nunez"", ""BukayoSaka87""]","[""Argentina"", ""Uruguay"", ""England"", ""Belgium""]",[]
+28,The long wait is over ⌛️ The FIFA World Cup 2022 begins today with the opening clash between the host Qatar and Ecuador 🤩 #fifaworldcup #cristianoronaldo #lionelmessi #BetBarter #WorldCup2022,positive,positive,positive,1,"Positive.
+
+The tweet expresses excitement and enthusiasm for the start of the FIFA World Cup, using emojis to convey a sense of celebration. The language used is also positive, with words like ""over"" and ""began"", which imply a sense of relief or accomplishment.",positive,1,Match Play,Match Play,Match Play,1,Match Play,Match Play,1,"Here are the extracted named entities:
+
+1. Player Names:
+	* Cristiano Ronaldo
+	* Lionel Messi
+2. Team/Country Names:
+	* Qatar
+	* Ecuador
+3. Venue: 
+	* (Implicitly mentioned, as ""FIFA World Cup 2022"" is referring to a specific tournament held in Qatar)
+	* Note: The venue is not explicitly mentioned, but it can be inferred that the opening clash took place at the Lusail Iconic Stadium in Lusail, Qatar.","{""players"": [""cristianoronaldo"", ""lionelmessi""], ""teams"": [""qatar"", ""ecuador""], ""venues"": []}",1,"[""cristianoronaldo"", ""lionelmessi""]","[""qatar"", ""ecuador""]",[]
+29,"My World Cup prediction (thread).. Group winners GA: Netherlands🇳🇱, Senegal🇸🇳 GB: England🏴󠁧󠁢󠁥󠁮󠁧󠁿, USA🇺🇸 GC: Argentina🇦🇷, Mexico🇲🇽 GD: France🇫🇷, Denmark🇩🇰 GE: Spain🇪🇸, Germany🇩🇪 GF: Belgium🇧🇪, Croatia🇭🇷 GG: Brazil🇧🇷, Serbia🇷🇸 GH: Uruguay🇺🇾 , Portugal🇵🇹 #WorldCup2022",neutral,Neutral,neutral,1,Sentiment: positive,positive,0,Match Play,Match Play,Match Play,1,Match Play,Match Play,1,"Here are the extracted named entities:
+
+**Player Names:** None mentioned in this tweet.
+
+**Team/Country Names:**
+
+1. Netherlands
+2. Senegal
+3. England
+4. USA
+5. Argentina
+6. Mexico
+7. France
+8. Denmark
+9. Spain
+10. Germany
+11. Belgium
+12. Croatia
+13. Brazil
+14. Serbia
+15. Uruguay
+16. Portugal
+
+**Venues:** None mentioned in this tweet.","{""players"": [], ""teams"": [""Netherlands"", ""Senegal"", ""England"", ""USA"", ""Argentina"", ""Mexico"", ""France"", ""Denmark"", ""Spain"", ""Germany"", ""Belgium"", ""Croatia"", ""Brazil"", ""Serbia"", ""Uruguay"", ""Portugal""], ""venues"": []}",1,[],"[""Netherlands"", ""Senegal"", ""England"", ""USA"", ""Argentina"", ""Mexico"", ""France"", ""Denmark"", ""Spain"", ""Germany"", ""Belgium"", ""Croatia"", ""Brazil"", ""Serbia"", ""Uruguay"", ""Portugal""]",[]
+30,My Sweepstake Picks: Family: 1. Portugal 🇵🇹 2. Spain 🇪🇸 3. Netherlands 🇳🇱 4. Morocco 🇲🇦 5. Costa Rica 🇨🇷 6. Senegal 🇸🇳 Friends: 1. Portugal 🇵🇹 2. Switzerland 🇨🇭 3. Senegal 🇸🇳 4. Cameroon 🇨🇲 5. Iran 🇮🇷 Looks like I want a Portugal v Senegal final 😂 #WorldCup2022,neutral,positive,positive,0,"The sentiment of the tweet is positive, as it expresses excitement and optimism about the World Cup and the user's sweepstake picks, with a humorous tone.",positive,0,Match Play,Match Play,Match Play,1,Match Play,Match Play,1,"Here are the extracted named entities:
+
+**Player Names:** None mentioned in this tweet.
+
+**Team/Country Names:**
+
+1. Portugal
+2. Spain
+3. Netherlands
+4. Morocco
+5. Costa Rica
+6. Senegal
+7. Switzerland
+8. Cameroon
+9. Iran
+
+**Venues:** None mentioned in this tweet.","{""players"": [""Portugal"", ""Spain"", ""Netherlands"", ""Morocco"", ""Costa Rica"", ""Senegal"", ""Switzerland"", ""Cameroon"", ""Iran""], 
+ ""teams"": [""Portugal"", ""Spain"", ""Netherlands"", ""Morocco"", ""Costa Rica"", ""Senegal"", ""Switzerland"", ""Cameroon"", ""Iran""], 
+ ""venues"": []}",1,"[""Portugal"", ""Spain"", ""Netherlands"", ""Morocco"", ""Costa Rica"", ""Senegal"", ""Switzerland"", ""Cameroon"", ""Iran""]","[""Portugal"", ""Spain"", ""Netherlands"", ""Morocco"", ""Costa Rica"", ""Senegal"", ""Switzerland"", ""Cameroon"", ""Iran""]",[]
+31,"Supporting mainly England for saka/white &amp; Brazil for martinelli/jesus. Also Portugal on the side for Ronaldo. Neutral but excited to watch france, Germany, Argentina, japan, etc. Let's get this world cup rolling boys!!!! Let's have fun and banter #WorldCup2022",positive,Positive,positive,1,"The sentiment of the tweet is: positive
+
+Although the user mentions some teams they are not supporting (England, Brazil, Portugal), their tone is overall enthusiastic and excited for the World Cup. The use of ""Let's get this world cup rolling boys!!!!"" and ""#WorldCup2022"" also convey a sense of positivity and excitement.",positive,1,Match Play,Match Play,Match Play,1,Match Play,Match Play,1,"Here are the extracted named entities:
+
+**Player Names:**
+
+1. Saka (presumably Bukayo Saka)
+2. Martinelli (presumably Gabriel Martinelli)
+3. Jesus (presumably Vinicius Junior, but it's also possible that the user is referring to Gabriel Jesus)
+4. Ronaldo (presumably Cristiano Ronaldo)
+
+**Team/Country Names:**
+
+1. England
+2. Brazil
+3. Portugal
+4. France
+5. Germany
+6. Argentina
+7. Japan
+
+**Venue:**
+None mentioned in this tweet, as it appears to be a general statement about the World Cup rather than a specific reference to a particular venue.","{""players"": [""Saka"", ""Martinelli"", ""Jesus"", ""Ronaldo""], ""teams"": [""England"", ""Brazil"", ""Portugal"", ""France"", ""Germany"", ""Argentina"", ""Japan""], ""venues"": []}",1,"[""Saka"", ""Martinelli"", ""Jesus"", ""Ronaldo""]","[""England"", ""Brazil"", ""Portugal"", ""France"", ""Germany"", ""Argentina"", ""Japan""]",[]
+32,My world cup predictions #WorldCup2022 #Qatar2022 #WorldCup Winners: Brazil 🔥 Player of the Tournament: Neymar 💫 YPOT: Gavi ❌ Under-performers: France 🐎 Dark horse: Denmark/Uruguay 🎯Most assists: Neymar ⚽️ Top Scorer: lautaro martinez 🌟Breakout star: Enzo Fernandez,positive,positive,positive,1,"Based on the content of the tweet, I would classify its sentiment as:
+
+positive
+
+Although the tweet mentions some negative teams (France and Uruguay) and under-performers (France), it also expresses enthusiasm and excitement for Brazil's predicted performance, Neymar being the player of the tournament, and Lautaro Martinez being the top scorer. The overall tone is optimistic and celebratory.",positive,1,Match Play,Match Play,Match Play,1,Match Play,Match Play,1,"Here are the extracted named entities:
+
+**Player Names:**
+
+1. Neymar
+2. Gavi
+3. Lautaro Martinez
+4. Enzo Fernandez
+
+**Team/Country Names:**
+
+1. Brazil
+2. France
+3. Denmark
+4. Uruguay
+
+**Venue:**
+
+ None mentioned in this tweet (it's a prediction tweet, not related to a specific match or venue)","{""players"": [""Neymar"", ""Gavi"", ""Lautaro Martinez"", ""Enzo Fernandez""], ""teams"": [""Brazil"", ""France"", ""Denmark"", ""Uruguay""], ""venues"": []}",1,"[""Neymar"", ""Gavi"", ""Lautaro Martinez"", ""Enzo Fernandez""]","[""Brazil"", ""France"", ""Denmark"", ""Uruguay""]",[]
+33,#WorldCup #Worldcup2022 #worldcup2022qatar predictions: 🏅 Winner: Uruguay🇺🇾 🔥 Player of the Tournament: @Darwinn99 💫 Young Player of the Tournament: Darwin Nunez 😬 Big team that doesn't make it out of the group stage: England 🐎 Dark horse: Netherlands 🇳🇱,neutral,Neutral,neutral,1,"Based on the tweet, I would classify its sentiment as:
+
+Neutral
+
+The tweet appears to be a prediction or forecast for the World Cup, listing teams and players without expressing any emotions or opinions. It's more of an informative or analytical post rather than a subjective expression of sentiment.",neutral,1,Match Play,Match Play,Match Play,1,Match Play,Match Play,1,"Here are the extracted named entities:
+
+1. Players:
+	* Darwin Nunez
+2. Teams/Countries:
+	* Uruguay (🇺🇾)
+	* England
+	* Netherlands
+3. Venue:
+	* None mentioned directly, but implied as the 2022 FIFA World Cup in Qatar","{""players"": [""Darwin Nunez""], ""teams"": [""Uruguay"", ""England"", ""Netherlands""], ""venues"": []}",1,"[""Darwin Nunez""]","[""Uruguay"", ""England"", ""Netherlands""]",[]
+34,Belgium Brazil Cameroon Croatia Germany My #WorldCup2022 teams. #FIFAWorldCup,neutral,Neutral,neutral,1,"Based on the tweet, I would classify its sentiment as:
+
+Neutral
+
+The tweet appears to be a statement of fact or an announcement about the user's team selection for the World Cup, without expressing any emotion or opinion. It does not contain language that suggests excitement, disappointment, or any other emotional tone.",neutral,1,Match Play,Match Play,Match Play,1,Match Play,Match Play,1,"Here are the extracted named entities:
+
+1. Player Names:
+	* None (no specific player names were mentioned)
+2. Team/Country Names:
+	* Belgium
+	* Brazil
+	* Cameroon
+	* Croatia
+	* Germany
+3. Venue:
+	* None (the tweet does not mention a specific venue)","{""players"": [], ""teams"": [""Belgium"", ""Brazil"", ""Cameroon"", ""Croatia"", ""Germany""], ""venues"": []}",1,[],"[""Belgium"", ""Brazil"", ""Cameroon"", ""Croatia"", ""Germany""]",[]
+35,Last floor check for @FIFAPlusCollect before the #WorldCup starts! ICONICS France $7500 ($2700 avg; 2 sales) Brazil M $1999 ($2468; 27) Brazil W $1950 (9 minted) Colombia $1950 (4 minted) USA $1555 ($1961; 25) Argentina N/A ($2700; 2) #algofam #NFT #WorldCup2022,neutral,Neutral,neutral,1,"I'd classify the sentiment of this tweet as neutral. The tweet appears to be a transactional update about FIFA World Cup collectibles, and it doesn't express any emotions or opinions about the World Cup itself. It's simply a factual announcement about sales figures.",neutral,1,Match Play,Logistics/Hosting,Logistics/Hosting,0,'Match Play',Match Play,1,"Here are the extracted named entities:
+
+**Player Names:** None mentioned in this tweet.
+
+**Team/Country Names:**
+
+* France
+* Brazil (mentioned twice)
+* Colombia
+* USA
+* Argentina
+
+**Venues:** None mentioned in this tweet.","{""players"": [], ""teams"": [""France"", ""Brazil"", ""Colombia"", ""USA"", ""Argentina""], ""venues"": []}",1,[],"[""France"", ""Brazil"", ""Colombia"", ""USA"", ""Argentina""]",[]
+36,Two kings. One Champ. Let's Go!!! Sign up Preciser to check opening Game prediction! Check more! Win more! #FIFAWorldCup #WorldCup2022 #Qatar #Ecuador #Messi,positive,positive,positive,1,"The sentiment of the tweet is positive. The use of enthusiastic language, such as ""What a goal!"", and the celebratory tone convey a strong sense of excitement and admiration. Additionally, the hashtags ""#FIFAWorldCup"", ""#WorldCup2022"", and ""#Messi"" further reinforce the positive sentiment.",positive,1,Match Play,Match Play,Match Play,1,Match Play,Match Play,1,"Here are the extracted named entities:
+
+1. Player Names:
+	* Messi (Lionel Messi)
+2. Team/Country Names:
+	* Qatar
+	* Ecuador
+3. Venue: 
+	* None mentioned directly, but implied as the FIFA World Cup 2022 in Qatar.","{""players"": [], ""teams"": [""Qatar"", ""Ecuador""], ""venues"": []}",1,[],"[""Qatar"", ""Ecuador""]",[]
+37,Late FIFA 2022 World Cup predictions #Messi and friends take home the trophy after ending runs from England and Germany. Mexico surprises France in the 1st round and Croatia sends Spain packing after penalties. #WorldCup #WorldCup2022 #QatarWorldCup2022,neutral,Neutral,neutral,1,"The sentiment of the tweet is neutral, as it appears to be a prediction or analysis of the World Cup without expressing any emotions or opinions about the outcome.",neutral,1,Match Play,Match Play,Match Play,1,Match Play,Match Play,1,"Here are the extracted named entities:
+
+**Player Names:**
+
+1. Messi (presumably referring to Lionel Messi)
+
+**Team/Country Names:**
+
+1. England
+2. Germany
+3. Mexico
+4. France
+5. Croatia
+6. Spain
+
+**Venue:**
+
+1. Qatar","{""players"": [""Messi""], ""teams"": [""England"", ""Germany"", ""Mexico"", ""France"", ""Croatia"", ""Spain""], ""venues"": []}",1,"[""Messi""]","[""England"", ""Germany"", ""Mexico"", ""France"", ""Croatia"", ""Spain""]",[]
+38,#WorldCup2022 #WorldcupQatar2022 Heart says Argentina but I think it's Brazil for the win. Argentina v Portugal 🔥 final will be great marketing.,positive,Neutral,neutral,0,"Based on the tweet, I would classify its sentiment as:
+
+Neutral
+
+The tweet is a statement of opinion about who might win the World Cup, and does not express any strong emotions or negative feelings towards the event itself. The use of hashtags like ""#WorldCup2022"" also suggests that the tweet is more of an observation or prediction rather than an emotional response to the match.",negative,0,Match Play,Match Play,Match Play,1,Match Play,Match Play,1,"Here are the extracted named entities:
+
+1. Player names:
+	* None mentioned directly, but teams are implied.
+2. Team/country names:
+	* Argentina
+	* Brazil
+	* Portugal
+3. Venue:
+	* Not explicitly mentioned, but implied as the World Cup final venue (likely Lusail Iconic Stadium in Qatar).","{""players"": [""Argentina"", ""Brazil""], ""teams"": [""Argentina"", ""Portugal"", ""Brazil""], ""venues"": []}",1,"[""Argentina"", ""Brazil""]","[""Argentina"", ""Portugal"", ""Brazil""]",[]
+39,"Enjoy #WorldCup2022 with TopGoal Predict Match Results, Split Jackpot 🎲Predict Winning team, draw 2 with 50TMT 🎲Predict Score, draw 2 with 50TMT 🎲Predict Winning team+Score, draw 1 with 100TMT 1⃣Follow + Like + RT 2⃣Comment ⚒️Round1: Qatar vs Ecuador ⏰DDL: End of match",positive,Neutral,neutral,0,"Based on the tweet's content, I would classify its sentiment as neutral. The tweet appears to be a promotional message for a prediction game related to the World Cup, and it doesn't express any emotions or opinions about the event itself. It simply provides information and invites users to participate in the game.",neutral,0,Match Play,Match Play,Match Play,1,'Match Play',Match Play,1,"Here are the extracted named entities:
+
+**Player Names:** None mentioned in this tweet.
+
+**Team/Country Names:**
+
+* Qatar
+* Ecuador
+
+**Venues:** None mentioned in this tweet, but it's likely referring to a football stadium or arena where the World Cup matches take place. However, no specific venue is mentioned.","{""players"": [], ""teams"": [""Qatar"", ""Ecuador""], ""venues"": []}",1,[],"[""Qatar"", ""Ecuador""]",[]
+40,#WorldCup2022 predictions Winner: Brazil Golden Boot: Harry Kane Golden Ball: Messi Young Player: Musiala Dark Horses: Uruguay Disappointing Team: England,neutral,Neutral,neutral,1,"Based on the tweet, I would classify its sentiment as:
+
+Neutral
+
+The tweet appears to be a list of predictions for the World Cup 2022, with no emotional language or tone. It's simply stating facts and opinions without expressing any strong feelings.",neutral,1,Match Play,Match Play,Match Play,1,Match Play,Match Play,1,"Here are the extracted named entities:
+
+**Player Names:**
+
+1. Harry Kane
+2. Messi (presumably referring to Lionel Messi)
+3. Musiala (presumably referring to Jamal Musiala)
+
+**Team/Country Names:**
+
+1. Brazil
+2. England
+3. Uruguay
+
+**Venue:**
+None mentioned in the tweet, as it appears to be a prediction or opinion rather than a specific event or match report.","{""players"": [""Harry Kane"", ""Messi"", ""Musiala""], ""teams"": [""Brazil"", ""Uruguay"", ""England""], ""venues"": []}",1,"[""Harry Kane"", ""Messi"", ""Musiala""]","[""Brazil"", ""Uruguay"", ""England""]",[]
+41,The World Cup starts today ⚽️ My teams to watch to win it all: England USA Argentina Portugal #WorldCup2022,positive,Positive,positive,1,"Based on the tweet, I would classify its sentiment as:
+
+Positive
+
+Although the tweet mentions multiple teams (England, USA, Argentina, and Portugal), which could be seen as neutral or objective, the overall tone of the message is enthusiastic and optimistic, with a hint of competitiveness (""win it all""). The use of hashtags like #WorldCup2022 also suggests excitement and anticipation.",positive,1,Match Play,Match Play,Match Play,1,Match Play,Match Play,1,"Here are the extracted named entities:
+
+1. Player Names:
+	* None explicitly mentioned, but implied as part of the teams
+2. Team/Country Names:
+	* Teams:
+		+ England
+		+ USA (United States)
+		+ Argentina
+		+ Portugal
+	* Country:
+		+ England (note: England is a country, not just a team)
+3. Venue:
+	* None mentioned","{""players"": [""Lionel Messi"", ""Kylian Mbappe""], ""teams"": [""England"", ""USA"", ""Argentina"", ""Portugal""], ""venues"": []}",1,"[""Lionel Messi"", ""Kylian Mbappe""]","[""England"", ""USA"", ""Argentina"", ""Portugal""]",[]
+42,"Original pick was France to win the World Cup, given the Benzema news I've now changed to the Samba Boys of Brazil. Still sticking with Mbappe as the tournaments top Goal Scorer #WorldCup2022 ⚽️",positive,Positive,positive,1,"Positive.
+
+The tweet expresses enthusiasm and excitement about a recent development in the World Cup, specifically mentioning a favorite team (Brazil) and a player (Mbappe), which suggests a positive sentiment.",positive,1,Match Play,Match Play,Match Play,1,Match Play,Match Play,1,"Here are the extracted named entities:
+
+1. Player Names:
+	* Benzema
+	* Mbappe
+2. Team/Country Names:
+	* France
+	* Brazil
+3. Venue: None mentioned in this tweet (it's likely referring to a general prediction for the World Cup, but no specific venue is specified)","{""players"": [""Benzema"", ""Mbappe""], ""teams"": [""France"", ""Brazil""], ""venues"": []}",1,"[""Benzema"", ""Mbappe""]","[""France"", ""Brazil""]",[]
+43,My #WorldCup2022 rooting interests 1. USA 🇺🇸 2. South Korea 🇰🇷 3. Brazil 🇧🇷 4. Argentina 🇦🇷 5. Uruguay 🇺🇾 Will update after the group stages,neutral,Neutral,neutral,1,"Based on the tweet, I would classify its sentiment as neutral.
+
+The tweet is simply stating the user's rooting interests for the World Cup without expressing any emotions or opinions about the tournament itself. It's a factual statement with no positive or negative tone.",positive,0,Match Play,Match Play,Match Play,1,Match Play,Match Play,1,"Here are the extracted named entities:
+
+1. Player names: None mentioned in this tweet.
+2. Team/country names:
+   - USA
+   - South Korea
+   - Brazil
+   - Argentina
+   - Uruguay
+3. Venue: None mentioned in this tweet (it's likely referring to the FIFA World Cup, but no specific venue is specified).","{""players"": [""USA"", ""South Korea"", ""Brazil"", ""Argentina"", ""Uruguay""], ""teams"": [""USA"", ""South Korea"", ""Brazil"", ""Argentina"", ""Uruguay""], ""venues"": []}",1,"[""USA"", ""South Korea"", ""Brazil"", ""Argentina"", ""Uruguay""]","[""USA"", ""South Korea"", ""Brazil"", ""Argentina"", ""Uruguay""]",[]
+44,Cameroon 🇨🇲 USA 🇺🇸 Brazil 🇧🇷 England 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Japan 🇯🇵 Ghana 🇬🇭 Switzerland 🇨🇭 France 🇫🇷 (Cuz of Saliba) #WorldCup2022,neutral,Neutral,neutral,1,"Based on the tweet, I would classify its sentiment as:
+
+positive
+
+Although the tweet mentions several teams and a player's name (Saliba), which could be perceived as negative by some fans, the overall tone is celebratory and enthusiastic, with the use of emojis and hashtags (#WorldCup2022) suggesting excitement and support for Cameroon.",positive,0,Match Play,Match Play,Match Play,1,Match Play,Match Play,1,"Here are the extracted named entities:
+
+1. Player: Cuz Of Saliba
+2. Team/Country:
+	* Cameroon
+	* USA
+	* Brazil
+	* England
+	* Japan
+	* Ghana
+	* Switzerland
+	* France","{""players"": [], ""teams"": [""Cameroon"", ""USA"", ""Brazil"", ""England"", ""Japan"", ""Ghana"", ""Switzerland"", ""France""], ""venues"": []}",1,[],"[""Cameroon"", ""USA"", ""Brazil"", ""England"", ""Japan"", ""Ghana"", ""Switzerland"", ""France""]",[]
+45,"Ecuador arrive as South America’s fourth-placed qualifier but are not close to the levels of Brazil, Argentina or Uruguay and, arguably, are not even the fourth-best CONMEBOL team. #WorldCup2022 #FIFAWorldCupQatar2022",negative,Negative,negative,1,"Negative.
+
+The tweet expresses a critical opinion about Ecuador's chances in the World Cup, comparing them unfavorably to other South American teams and implying that they are not strong enough to compete at a high level. The tone is also somewhat dismissive and condescending, which contributes to the negative sentiment.",negative,1,Match Play,Match Play,Match Play,1,Match Play,Match Play,1,"Here are the extracted named entities:
+
+1. Player names:
+	* None mentioned in this tweet.
+2. Team/country names:
+	* Ecuador
+	* Brazil
+	* Argentina
+	* Uruguay
+3. Venue:
+	* Qatar (implied, as it's referring to the 2022 FIFA World Cup)","{""players"": [], ""teams"": [""Ecuador"", ""Brazil"", ""Argentina"", ""Uruguay""], ""venues"": []}",1,[],"[""Ecuador"", ""Brazil"", ""Argentina"", ""Uruguay""]",[]
+46,"FIFA 2022 Brazil, Argentina, Germany, Portugal or current champion France ? Or is it going to be a great year for ENGLAND with 2 World cups ? #FIFAWorldCup #FIFAWorldCup2022 #FIFA #WorldCup2022 #Brazilian #England #Argentina #Portugal #Germany #France",positive,Neutral,neutral,0,"The sentiment of the tweet is neutral. The tweet appears to be a question about which teams will participate in the FIFA World Cup, and it does not express any emotion or opinion about the tournament itself.",neutral,0,Match Play,Match Play,Match Play,1,'Match Play',Match Play,1,"Here are the extracted named entities:
+
+1. Player names:
+	* None mentioned in this tweet.
+2. Team/country names:
+	* Brazil
+	* Argentina
+	* Germany
+	* Portugal
+	* France
+	* England
+3. Venues:
+	* None mentioned in this tweet (note: FIFA World Cup is typically held at a single venue, but the specific location is not specified in this tweet).","{""players"": [""England""], ""teams"": [""England"", ""Brazil"", ""Argentina"", ""Portugal"", ""Germany"", ""France""], ""venues"": []}",1,"[""England""]","[""England"", ""Brazil"", ""Argentina"", ""Portugal"", ""Germany"", ""France""]",[]
+47,I'm predicting another Germany v Brazil World Cup final with Germany to win. As much as I wish the USA would win one... they aren't ready yet. I'd love a good turn of events throwing away all tournament brackets. #WorldCup2022 #Germany #Brazil #QatarWorldCup2022 #sports,neutral,Neutral,neutral,1,"The sentiment of this tweet is neutral, as it expresses the author's opinion and prediction about the World Cup final, but does not contain any emotional language or strong positive or negative tone. The use of phrases like ""I'd love a good turn of events"" also suggests a neutral or even slightly sarcastic attitude.",positive,0,Match Play,Match Play,Match Play,1,Match Play,Match Play,1,"Here are the extracted named entities:
+
+1. Player names:
+	* None mentioned in this tweet.
+2. Team/country names:
+	* Germany
+	* Brazil
+	* USA
+3. Venue:
+	* Qatar (referring to the 2022 FIFA World Cup, which was held in Qatar)","{""players"": [""Germany"", ""Brazil""], ""teams"": [""Germany"", ""Brazil"", ""USA""], ""venues"": [""Qatar""]}",1,"[""Germany"", ""Brazil""]","[""Germany"", ""Brazil"", ""USA""]","[""Qatar""]"
+48,Most Goals scored by Countries at FIFA World Cup from 1930-2018. Brazil 🇧🇷 has scored the most goals in the history of the FIFA World Cups followed by Germany 🇩🇪 and Argentina 🇦🇷 #WorldCup2022 #Qatar2022 #football #FIFAWorldCup #FIFAWorldCup2022 #WakaWaka #brazil #Argentina,positive,positive,positive,1,"The sentiment of the tweet is: positive
+
+Although the tweet mentions a neutral topic (the FIFA World Cup), the tone and language used (""Most Goals scored by Countries... Brazil has scored the most goals in the history of the FIFA World Cups"") convey admiration and excitement, indicating a positive sentiment.",positive,1,Match Play,Match Play,Match Play,1,'Match Play',Match Play,1,"Here are the extracted named entities:
+
+1. Player names:
+	* None mentioned in this tweet.
+2. Team/country names:
+	* Brazil
+	* Germany
+	* Argentina
+3. Venues:
+	* None mentioned in this tweet (the venue is implied to be the FIFA World Cup, but no specific stadium or location is mentioned).","{""players"": [], ""teams"": [""Brazil"", ""Germany"", ""Argentina""], ""venues"": []}",1,[],"[""Brazil"", ""Germany"", ""Argentina""]",[]
+49,VAR strikes already. Summat dodgy going on⚽ #QatarWorldCup2022 #EcuadorvsQatar #WorldCup2022,negative,Negative,negative,1,"Based on the tweet, I would classify its sentiment as:
+
+Negative
+
+The use of the word ""disagree"" is implied by the phrase ""strikes already"", which suggests that the user has a negative opinion about the VAR system. The tone also seems to be critical and frustrated.",negative,1,Referees,Match Play,Match Play,0,Referees,Referees,1,"Here are the extracted named entities:
+
+1. Player Names:
+	* None mentioned in this tweet.
+2. Team/Country Names:
+	* Ecuador
+	* Qatar
+3. Venues:
+	* None mentioned in this tweet, but implied as the World Cup venue (Qatar) and possibly a specific stadium or location within it.","{""players"": [], ""teams"": [""Ecuador"", ""Qatar""], ""venues"": []}",1,[],"[""Ecuador"", ""Qatar""]",[]
+50,So now as you’ve seen #QATAR control #VAR 🤣🤣🤣🤣 Offside? No Foul? No Hang on we’ve conceded early let’s start again 🤣🤣🤣🤣🤣 #WorldCup2022,negative,negative,negative,1,"Based on the tweet, I would classify its sentiment as:
+
+Negative
+
+Although the tweet starts with a lighthearted tone and includes multiple laughing emojis (🤣), it quickly turns negative towards the referee's performance. The use of strong language (""disgrace"") and frustration with the VAR decision convey a sense of disappointment and discontent, outweighing the initial playful tone.",negative,1,Referees,Match Play,Match Play,0,Match Play,Match Play,0,"Here are the extracted named entities:
+
+1. Player names:
+	* None mentioned in this tweet.
+2. Team/country names:
+	* Qatar
+3. Venue:
+	* None mentioned in this tweet, but it appears to be referring to a football match during the World Cup 2022, which is likely held at one of the stadiums in Qatar.","{""players"": [], ""teams"": [""QATAR""], ""venues"": []}",1,[],"[""QATAR""]",[]
+51,Good to see VAR as useless at #WorldCup2022 as premier. That goal should have stood for Ecuador. Wonder if anyone allowed to score against Qatar 🤷‍♂️,negative,Negative,negative,1,"Based on the tweet, I would classify its sentiment as:
+
+Negative
+
+Although the tone is somewhat sarcastic and dismissive (""useless"", ""should have stood""), the overall sentiment is negative towards the referee's decision. The mention of VAR also implies a sense of frustration and disappointment with the match outcome.",negative,1,Referees,Match Play,Match Play,0,Referees,Referees,1,"Here are the extracted named entities:
+
+1. Player names:
+	* None mentioned directly, but a player is implied (the scorer of the goal)
+2. Team/country names:
+	* Ecuador
+	* Qatar
+3. Venue:
+	* None mentioned explicitly, but it's implied that the tweet refers to a World Cup match played at a specific venue in Qatar","{""players"": [], ""teams"": [""Ecuador"", ""Qatar""], ""venues"": []}",1,[],"[""Ecuador"", ""Qatar""]",[]
+52,VAR officials increased to SEVEN per game for this World Cup. They've disallowed the Ecuador's opening 'goal'. Nothing to see here. #WorldCup2022 #Qatar2022,negative,negative,negative,1,"Based on the tweet, I would classify its sentiment as:
+
+Negative
+
+The tone of the tweet is critical and dismissive towards the VAR officials' decisions, using words like ""disgrace"" and implying that their actions are unfair or unjust. The hashtags #WorldCup2022 and #Qatar2022 also suggest a negative opinion about the tournament's refereeing.",negative,1,Referees,Match Play,Match Play,0,Referees,Referees,1,"Here are the extracted named entities:
+
+1. Player names:
+	* None mentioned in this tweet.
+2. Team/country names:
+	* Ecuador
+3. Venue:
+	* Qatar (referring to the host country of the World Cup)","{""players"": [], ""teams"": [""Ecuador""], ""venues"": []}",1,[],"[""Ecuador""]",[]
+53,Already this World Cup with some BS. That was a legit gol. No offsides and no foul against the goalie. 🤦🏽‍♂️#EcuadorvsQatar #WorldCup2022,negative,Negative,negative,1,"Based on the tweet, I would classify its sentiment as:
+
+Negative
+
+Although the user mentions that the goal was legitimate, the tone of the tweet is overall negative and critical towards the referee's performance. The use of ""disgrace"" also reinforces this classification.",negative,1,Referees,Match Play,Match Play,0,Match Play,Match Play,0,"Here are the extracted named entities:
+
+1. Player names:
+	* None mentioned in this tweet.
+2. Team/country names:
+	* Ecuador
+	* Qatar
+3. Venue: 
+	* None mentioned in this tweet, but implied as it's a World Cup match.","{""players"": [], ""teams"": [""Ecuador"", ""Qatar""], ""venues"": []}",1,[],"[""Ecuador"", ""Qatar""]",[]
+54,Absolute rubbish!! Valencia was never off!! Are we really going to sit here and pretend that this Cup is not fixed!?!! VAR is used to CHEAT! #EcuadorvsQatar #WorldCup2022,negative,Negative,negative,1,"Negative. The use of strong language such as ""absolute rubbish"", ""disgrace"", ""ruined the match"", ""fixed"", and ""CHEAT"" convey a strongly negative sentiment towards the referee, VAR, and possibly the World Cup itself.",negative,1,Referees,Match Play,Match Play,0,Referees,Referees,1,"Here are the extracted named entities:
+
+1. Player names:
+	* None mentioned in this tweet.
+2. Team/country names:
+	* Valencia (presumably referring to Valencia CF, a Spanish football club)
+	* Ecuador
+	* Qatar
+3. Venue: 
+	* None mentioned in this tweet.","{""players"": [], ""teams"": [""Valencia"", ""Ecuador"", ""Qatar""], ""venues"": []}",1,[],"[""Valencia"", ""Ecuador"", ""Qatar""]",[]
+55,@elonmusk Controversy already! Has the VAR referee been paid off? There is no way that goal was offside #WorldCup2022 #EcuadorvsQatar,negative,negative,negative,1,"Based on the tweet, I would classify its sentiment as:
+
+Negative
+
+The tone of the tweet is critical and accusatory towards the referee, using strong language to express dissatisfaction with the VAR decision. The use of words like ""disgrace"" also reinforces a negative sentiment.",negative,1,Referees,Match Play,Match Play,0,Referees,Referees,1,"Here are the extracted named entities:
+
+1. Player names:
+	* None mentioned in this tweet.
+2. Team/country names:
+	* Ecuador
+	* Qatar
+3. Venue: 
+	* None mentioned in this tweet (the World Cup is a global tournament, but no specific venue is mentioned).","{""players"": [], ""teams"": [""Ecuador"", ""Qatar""], ""venues"": []}",1,[],"[""Ecuador"", ""Qatar""]",[]
+56,"2mins They Have Scored Qatar, and they cancelled the Goal from Ecuador... VAR this is not the way forward... FIFA | #WorldCup2022 #FIFAWorldCup",negative,Negative,negative,1,"Negative. The tweet expresses frustration with the VAR system and its perceived unfairness, using strong language like ""disgrace"" to describe the referee.",negative,1,Referees,Match Play,Match Play,0,'Referees',Referees,1,"Here are the extracted named entities:
+
+1. Player names:
+	* None mentioned in this tweet.
+2. Team/country names:
+	* Qatar
+	* Ecuador
+3. Venue: 
+	* (No venue is explicitly mentioned, but it can be inferred that the tweet refers to a match during the FIFA World Cup 2022, which was held in various venues across Qatar.)","{""players"": [], ""teams"": [""Qatar"", ""Ecuador""], ""venues"": []}",1,[],"[""Qatar"", ""Ecuador""]",[]
+57,Goal disallowed by VAR ! Ecuador captain Valencia scores and then disallowed #WorldCup2022 #Qatar2022,negative,Negative,negative,1,"Based on the tweet, I would classify its sentiment as:
+
+Negative
+
+The use of the word ""disallowed"" implies a negative outcome for the team that scored, and the tone suggests disappointment or frustration. The hashtags ""#WorldCup2022 #Qatar2022"" add to the overall negative sentiment by implying that something went wrong in the match.",negative,1,Referees,Match Play,Match Play,0,'Match Play',Match Play,0,"Here are the extracted named entities:
+
+1. Player:
+	* Valencia (Ecuador captain)
+2. Team/Country:
+	* Ecuador
+3. Venue: None mentioned directly, but implied as the World Cup venue in Qatar.","{""players"": [""Valencia""], ""teams"": [""Ecuador"", ""Qatar""], ""venues"": []}",1,"[""Valencia""]","[""Ecuador"", ""Qatar""]",[]
+58,Shocking VAR decision in #WorldCup2022. #Ecuador goal disallowed? Why? I hope this World Cup isn’t ruined by dodgy refereeing decisions.,negative,Negative,negative,1,"Based on the tweet, I would classify its sentiment as:
+
+Negative
+
+Although the tweet starts with a positive phrase (""Shocking""), it quickly turns to criticism and frustration towards the referee's decision, using strong negative language like ""disgrace"" and expressing disappointment that the World Cup might be ruined by poor refereeing.",positive,0,Referees,Match Play,Match Play,0,Referees,Referees,1,"Here are the extracted named entities:
+
+1. Player names:
+	* None mentioned directly, but it can be inferred that the players involved in the VAR decision are part of the Ecuador team.
+2. Team/country names:
+	* Ecuador
+3. Venue: 
+	* None mentioned directly, but it can be inferred that the tweet is referring to a match played during the 2022 FIFA World Cup, which was held in Qatar.","{""players"": [], ""teams"": [""Ecuador""], ""venues"": []}",1,[],"[""Ecuador""]",[]
+59,"This World Cup is corrupt even more now, so it’s #QATECU Equador score a perfectly ON SIDE goal 3 mins in to the opening game and it goes to VAR and marked officially as offside so it’s now 0-0 again, and now they are saying it actually a foul on the GK #corruptfifa #WorldCup2022",negative,Negative,negative,1,"Based on the language used, I would classify the sentiment of this tweet as:
+
+Negative
+
+The user is expressing frustration and outrage towards the referee's decision, using strong words like ""disgrace"" to describe their opinion. They also mention corruption and FIFA, which further emphasizes their negative emotions. The tone is critical and accusatory, indicating a strongly negative sentiment.",negative,1,Referees,Referees,Referees,1,'Match Play',Match Play,0,"Here are the extracted named entities:
+
+1. Player names:
+	* None mentioned directly in the tweet.
+2. Team/country names:
+	* Equador (country)
+3. Venue: 
+	* None mentioned in the tweet, but it's implied that the World Cup is taking place at a specific venue, which is not specified.","{""players"": [], ""teams"": [""Ecuador""], ""venues"": []}",1,[],"[""Ecuador""]",[]
+60,"Qatar could win it with this VAR. If they can get out of their own half, there's a penalty on #WorldCup2022",positive,negative,negative,0,"Based on the tweet content, I would classify its sentiment as:
+
+ Sentiment: positive",positive,1,Referees,Match Play,Match Play,0,Referees,Referees,1,"Here are the extracted named entities:
+
+1. Player Names:
+	* None explicitly mentioned
+2. Team/Country Names:
+	* Qatar
+3. Venue: 
+	* None explicitly mentioned (but implied as the World Cup venue, which is likely Lusail Iconic Stadium in Qatar)","{""players"": [], ""teams"": [""Qatar""], ""venues"": []}",1,[],"[""Qatar""]",[]
+61,My mum has been screaming at the TV since Ecuador got robbed. I can't imagine the noise if France or Portugal are playing soon 😂😂😂 #FIFAWorldCup #WorldCup2022,negative,positive,positive,0,"Based on the tweet, I would classify its sentiment as:
+
+Positive
+
+Although the user mentions that their mum is ""screaming at the TV"" and uses a phrase that could be interpreted as sarcastic (""ruined the match""), the overall tone of the tweet seems to be lighthearted and humorous, with the use of multiple laughing emojis (😂) indicating amusement.",positive,0,Match Play,Match Play,Match Play,1,Match Play,Match Play,1,"Here are the extracted named entities:
+
+1. Player names:
+	* None mentioned in this tweet.
+2. Team/country names:
+	* Ecuador
+	* France
+	* Portugal
+3. Venue:
+	* None mentioned in this tweet (the FIFA World Cup is a global tournament, but no specific venue is mentioned).","{""players"": [], ""teams"": [""Ecuador"", ""France"", ""Portugal""], ""venues"": []}",1,[],"[""Ecuador"", ""France"", ""Portugal""]",[]
+62,Eyo wtf just happened!?! How was Ecuador offside on that goal!? Nah VAR already being a joke. #WorldCup2022 #EcuadorvsQatar,negative,Negative,negative,1,"Based on the tweet, I would classify its sentiment as:
+
+Negative
+
+The language used is emotive and critical (""disgrace"", ""ruined""), and there's also frustration with the VAR system, which suggests a negative tone. The use of hashtags like ""#WorldCup2022 #EcuadorvsQatar"" adds to the overall negative sentiment, implying disappointment or outrage at the match outcome.",negative,1,Referees,Match Play,Match Play,0,Referees,Referees,1,"Here are the extracted named entities:
+
+1. Player names:
+	* None mentioned in this tweet.
+2. Team/country names:
+	* Ecuador
+	* Qatar
+3. Venue: 
+	* None mentioned in this tweet, but it can be inferred that the venue is likely a stadium where the World Cup 2022 match between Ecuador and Qatar took place.","{""players"": [], ""teams"": [""Ecuador"", ""Qatar""], ""venues"": []}",1,[],"[""Ecuador"", ""Qatar""]",[]
+63,Opening 5 minutes of #WorldCup2022 the prrfect snapshot of football fans worst fears - a half empty stadium (for the host's 1st game) &amp; a goal disallowed for no evident reason by #VAR #Terrible #TurningItOff,negative,Negative,negative,1,"Negative. The tweet expresses frustration and disappointment with the referee's performance, using strong negative language such as ""disgrace"" and ""#Terrible"".",negative,1,Referees,Referees,Referees,1,Logistics/Hosting,Logistics/Hosting,0,"Here are the extracted named entities:
+
+**Player Names:** None mentioned in this tweet.
+
+**Team/Country Names:**
+
+* Host country (not specified, but implied to be Qatar)
+* No specific team names mentioned, but the context suggests it's a World Cup match.
+
+**Venues:** 
+
+* Stadium (not specified, but implied to be the Lusail Iconic Stadium, which hosted the opening match of the 2022 FIFA World Cup)","{""players"": [], ""teams"": [""WorldCup2022""], ""venues"": []}",1,[],"[""WorldCup2022""]",[]
+64,"Few teams ill be watching and supporting for world cup. Germany, France, Brazil, Argentina. Die Mannschaft and Les Blues since 2014. Supporting the asian teams as well Japan and Korea. Daehanminguk jajjak jajjak jjak! Tibe. #WorldCup2022",neutral,positive,positive,0,"Based on the tweet's content, I would classify its sentiment as:
+
+positive
+
+Although the tweet mentions some disappointment with the lack of support for certain teams, it also expresses enthusiasm and excitement about supporting Asian teams like Japan and Korea, using phrases like ""Daehanminguk jajjak jajjak jjak!"" (which roughly translates to ""Korea is amazing!""). The overall tone of the tweet seems to be one of positivity and national pride.",positive,0,Match Play,Match Play,Match Play,1,Match Play,Match Play,1,"Here are the extracted named entities:
+
+1. Player names:
+	* None mentioned in this tweet.
+2. Team/country names:
+	* Germany
+	* France
+	* Brazil
+	* Argentina
+	* Japan
+	* Korea (referenced as ""Daehanminguk"", which is the Korean name for South Korea)
+3. Venue:
+	* None mentioned in this tweet.
+
+Note that the mention of ""Tibe"" seems to be a typo or an error, and it's unclear what it refers to.","{""players"": [], ""teams"": [""Germany"", ""France"", ""Brazil"", ""Argentina"", ""Japan"", ""Korea""], ""venues"": []}",1,[],"[""Germany"", ""France"", ""Brazil"", ""Argentina"", ""Japan"", ""Korea""]",[]
+65,How is Var going to give the penalty that Quatar win by if they can’t get into the Ecuador half…#WorldCup2022,negative,Negative,negative,1,"Based on the tweet, I would classify its sentiment as:
+
+Negative
+
+The tone of the tweet suggests frustration and disappointment with the referee's potential decision, implying that the author is unhappy with the situation. The use of strong language (""disgrace"") also contributes to a negative sentiment.",negative,1,Referees,Match Play,Match Play,0,Referees,Referees,1,"Here are the extracted named entities:
+
+1. Player name:
+	* None explicitly mentioned, but implied as part of a team.
+2. Team/Country names:
+	* Qatar
+	* Ecuador
+3. Venue: 
+	* Not explicitly mentioned in this tweet, but implied as it's related to the World Cup 2022.","{""players"": [""Var"", ""Quatar""], ""teams"": [""Ecuador"", ""Quatar""], ""venues"": []}",1,"[""Var"", ""Quatar""]","[""Ecuador"", ""Quatar""]",[]
+66,If that goal really was ruled out for offside then the corruption is so obvious and FIFA has clearly told the refs that #Qatar cannot lose its opening match. SHOCKER. #WorldCup2022 #QatarEcuador,negative,negative,negative,1,"Based on the language used, I would classify the sentiment of this tweet as:
+
+Negative
+
+The tone is critical and accusatory, with words like ""disgrace"" and ""corruption"", which convey a strong negative emotion. The use of hashtags like ""#QatarEcuador"" also suggests that the author is upset about the outcome of the match.",negative,1,Match Play,Referees,Referees,0,'Match Play',Match Play,1,"Here are the extracted named entities:
+
+1. Player names:
+	* None mentioned in this tweet.
+2. Team/country names:
+	* Qatar
+	* Ecuador
+3. Venue: 
+	* (No venue is explicitly mentioned, but it can be inferred that the match took place at a stadium in Qatar, as the World Cup 2022 is being held in Qatar.)","{""players"": [], ""teams"": [""Qatar"", ""Ecuador""], ""venues"": []}",1,[],"[""Qatar"", ""Ecuador""]",[]
+67,"""This is scientific precision."" waitaminute.... ""This is bullshit."" there, I fixed it. #WorldCup2022 #EcuadorvsQatar #VAR",negative,Negative,negative,1,"Based on the tweet's content and tone, I would classify its sentiment as:
+
+Negative
+
+The user initially expresses skepticism about VAR (Video Assistant Referee) technology, but then sarcastically corrects themselves to express frustration with the system. The overall tone is critical and dismissive, indicating a negative sentiment towards VAR.",negative,1,Referees,Match Play,Match Play,0,Referees,Referees,1,"Here are the extracted named entities:
+
+1. Player names:
+	* None mentioned directly in the tweet.
+2. Team/country names:
+	* Ecuador
+	* Qatar
+3. Venue: 
+	* None mentioned directly in the tweet, but it's implied that the tweet is related to a football match (presumably at the 2022 FIFA World Cup).","{""players"": [], ""teams"": [""Ecuador"", ""Qatar""], ""venues"": []}",1,[],"[""Ecuador"", ""Qatar""]",[]
+68,"How is this goal offside? VAR received a suitcase with money in it. It was incredibly corrupt. Usually they repost pictures of the offside, but not in this match!!! #WorldCup2022 #Qatar #Ecuador #FIFA #EcuadorvsQatar",negative,negative,negative,1,"Negative.
+
+The tweet expresses frustration and outrage towards the VAR decision, using strong language to describe it as corrupt. The tone is critical and disapproving, indicating a negative sentiment.",negative,1,Referees,Referees,Referees,1,'Referees',Referees,1,"Here are the extracted named entities:
+
+1. Player names:
+	* None mentioned directly
+2. Team/country names:
+	* Ecuador
+	* Qatar
+3. Venue: 
+	* (Not explicitly mentioned, but implied as the World Cup 2022 tournament in Qatar)","{""players"": [], ""teams"": [""Ecuador"", ""Qatar""], ""venues"": []}",1,[],"[""Ecuador"", ""Qatar""]",[]
+69,Try and take that one away with your corrupt VAR Qatar! Let’s go Ecuador!!!!! #WorldCup2022,negative,Negative,negative,1,"Based on the tweet, I would classify its sentiment as:
+
+Negative
+
+Although the tone is angry and critical towards the referee's decisions (VAR), the overall sentiment is negative due to the strong language used. The use of words like ""disgrace"" also contributes to a negative tone.",negative,1,Referees,Match Play,Match Play,0,Referees,Referees,1,"Here are the extracted named entities:
+
+1. Player Names:
+	* None explicitly mentioned
+2. Team/Country Names:
+	* Qatar (team)
+	* Ecuador (country/team)
+3. Venues:
+	* None mentioned","{""players"": [""Qatar"", ""Ecuador""], ""teams"": [""Qatar"", ""Ecuador""], ""venues"": []}",1,"[""Qatar"", ""Ecuador""]","[""Qatar"", ""Ecuador""]",[]
+70,First goal of #WorldCup2022 is an Ecuador penalty kick! 1-0 Ecuador v. Qatar. Ecuador looking like the better team by far.,positive,Positive,positive,1,"Based on the tweet, I would classify its sentiment as:
+
+Negative
+
+Although the tweet mentions a positive event (a goal), it also uses negative language to describe the referee and implies that the match was ruined, which suggests a more overall negative tone. The phrase ""Ecuador looking like the better team by far"" is also somewhat critical of Qatar's performance, further contributing to the negative sentiment.",positive,1,Referees,Match Play,Match Play,0,Match Play,Match Play,0,"Here are the extracted named entities:
+
+**Player Names:** None
+
+**Team/Country Names:**
+
+* Ecuador
+* Qatar
+
+**Venues:** None (mentioned in the tweet, but no specific venue is mentioned)","{""players"": [""Ecuador""], ""teams"": [""Ecuador"", ""Qatar""], ""venues"": []}",1,"[""Ecuador""]","[""Ecuador"", ""Qatar""]",[]
+71,So finally the first goal of #WorldCup2022 came thru penalty. Ecuador 1 - Qatar 0,neutral,positive,positive,0,"Based on the tweet, I would classify its sentiment as:
+
+Negative
+
+Although the tweet mentions a goal and a score, the tone is negative due to the use of the word ""ruined"" to describe the referee's performance. The overall sentiment is critical and disapproving.",negative,0,Referees,Match Play,Match Play,0,Match Play,Match Play,0,"Here are the extracted named entities:
+
+* Player Names: None
+* Team/Country Names:
+	+ Ecuador
+	+ Qatar
+* Venues: None (Note: The tweet does not mention a specific venue, but it's likely referring to the Lusail Iconic Stadium in Lusail, Qatar, which hosted the match.)","{""players"": [""Ecuador"", ""Qatar""], ""teams"": [""Ecuador"", ""Qatar""], ""venues"": []}",1,"[""Ecuador"", ""Qatar""]","[""Ecuador"", ""Qatar""]",[]
+72,Qatar government officials chasing the referee after awarding Ecuador a penalty #FIFAWorldCup #WorldCup2022,neutral,Negative,negative,0,"Based on the tweet, I would classify its sentiment as:
+
+Negative
+
+The tone of the tweet is critical and disapproving towards the referee's decision, using strong language like ""disgrace"" to express dissatisfaction. The mention of government officials also adds a sense of controversy and outrage, further indicating a negative sentiment.",negative,0,Referees,Referees,Referees,1,'Referees',Referees,1,"Here are the extracted named entities:
+
+1. Player Names:
+	* None (no player names mentioned)
+2. Team/Country Names:
+	* Qatar
+	* Ecuador
+3. Venue:
+	* FIFA World Cup (note: this is a tournament, not a specific venue, but it's implied that the event took place in Qatar)","{""players"": [], ""teams"": [""Ecuador"", ""Qatar""], ""venues"": []}",1,[],"[""Ecuador"", ""Qatar""]",[]
+73,(15 Mins) Qatar 0-1 Ecuador. Enner Valencia scores the Penalty. A just score after VAR cancelled a perfectly good goal in the opening minutes for Ecuador. Not the ideal start for Qatar. #FIFAWorldCup2022 #QatarWorldCup2022 #Qatar2022 #QATECU #WorldCup2022,negative,Neutral,neutral,0,"Based on the tweet, I would classify its sentiment as:
+
+Negative
+
+Although the tweet mentions a goal and a penalty being scored, it also mentions that VAR cancelled a perfectly good goal for Ecuador, which suggests that the author is unhappy with the outcome of the match. The tone of the tweet is critical and disappointed, indicating a negative sentiment.",negative,1,Referees,Match Play,Match Play,0,'Match Play',Match Play,0,"Here are the extracted named entities:
+
+1. Player names:
+	* Enner Valencia
+2. Team/country names:
+	* Qatar
+	* Ecuador
+3. Venue: 
+	* (Implicitly mentioned, as it's a World Cup tournament)","{""players"": [""Enner Valencia""], ""teams"": [""Qatar"", ""Ecuador""], ""venues"": []}",1,"[""Enner Valencia""]","[""Qatar"", ""Ecuador""]",[]
+74,"There we have it, the first goal of the FIFA World Cup 2022 scored by Ecuador's Valencia on the 15th minute of the match! The goal came through a penalty kick. #WorldCup2022 #SaharaGames",positive,positive,positive,1,"Positive.
+
+The tweet expresses excitement and enthusiasm for the start of the FIFA World Cup, using phrases like ""What a goal!"" and ""#WorldCup2022"", which convey a sense of optimism and eagerness.",positive,1,Referees,Match Play,Match Play,0,Match Play,Match Play,0,"Here are the extracted named entities:
+
+1. Player names:
+	* Valencia (Ecuadorian player)
+2. Team/country names:
+	* Ecuador
+3. Venue:
+	* Sahara Games (Note: The Sahara Games is not a traditional football stadium, but rather an international multi-sport event that includes football. However, the specific venue where the match took place is not mentioned in the tweet.)","{""players"": [""Valencia""], ""teams"": [""Ecuador"", ""FIFA""], ""venues"": []}",1,"[""Valencia""]","[""Ecuador"", ""FIFA""]",[]
+75,#Ecuador scores the first goal of the 2022 #QatarWorldCup 😍 What a great match to watch as a neutral! #WorldCup ⚽️ #WorldCup2022,positive,Positive,positive,1,"Based on the tweet, I would classify its sentiment as:
+
+Positive
+
+Although the author describes themselves as ""neutral"", their use of enthusiastic emojis (😍) and phrases like ""What a great match to watch"" convey a positive tone. The overall sentiment is one of excitement and enjoyment, despite the author's self-described neutrality.",positive,1,Match Play,Match Play,Match Play,1,'Match Play',Match Play,1,"Here are the extracted named entities:
+
+1. Player names:
+	* None mentioned in this tweet.
+2. Team/country names:
+	* Ecuador
+	* Qatar
+3. Venue:
+	* Qatar (referring to the 2022 FIFA World Cup, which is being held in Qatar)","{""players"": [], ""teams"": [""Ecuador"", ""Qatar""], ""venues"": []}",1,[],"[""Ecuador"", ""Qatar""]",[]
+76,The ref trying to figure out how he can disallow a penalty he has just given #WorldCup #WorldCup2022 #Qatar2022 #QATECU #Qatar #Ecuador #fifa,neutral,Neutral,neutral,1,"Based on the tweet, I would classify its sentiment as:
+
+Neutral
+
+The reason is that the tweet is simply reporting a fact about the referee's decision and does not express any emotion or opinion. It appears to be a neutral observation rather than an expression of enthusiasm, disappointment, or frustration.",neutral,1,Referees,Referees,Referees,1,Referees,Referees,1,"Here are the extracted named entities:
+
+1. Player names: None
+2. Team/country names:
+	* Qatar
+	* Ecuador
+3. Venue: QATECU (Note: This seems to be a typo or abbreviation, and it's likely meant to be ""Al Bayt Stadium"" which is one of the venues used in the 2022 FIFA World Cup)","{""players"": [], ""teams"": [""Qatar"", ""Ecuador""], ""venues"": []}",1,[],"[""Qatar"", ""Ecuador""]",[]
+77,"So the Ecuador goal was ruled offside because of the players front leg, ok good decision albeit for the circled Qatari player. VAR is a joke!!!! #WorldCup #WorldCup2022 #Qatar2022 #Qatar #Ecuador 🇶🇦🇪🇨",negative,negative,negative,1,"Negative.
+
+The tweet expresses frustration and disappointment with the VAR decision, using strong language (""a joke"") to emphasize their discontent.",negative,1,Referees,Match Play,Match Play,0,Referees,Referees,1,"Here are the extracted named entities:
+
+1. Player names:
+	* None explicitly mentioned, but ""the circled Qatari player"" is implied to be a specific player.
+2. Team/country names:
+	* Ecuador
+	* Qatar
+3. Venue: 
+	* None mentioned directly, but it can be inferred that the tweet refers to a match played in Qatar during the 2022 World Cup.","{""players"": [""Qatari""], ""teams"": [""Qatar"", ""Ecuador""], ""venues"": []}",1,"[""Qatari""]","[""Qatar"", ""Ecuador""]",[]
+78,"#EnnerValencia scores for #Ecuador against #Qatar in the first match of #WorldCup2022 during a penalty shot. #Valencia had first appeared to score within the first 3 minutes of the match, but VAR review showed that that the play was offsides. 2 #Qatari players given yellow cards.",neutral,Neutral,neutral,1,"Based on the tweet's content, I would classify its sentiment as neutral.
+
+The tweet is simply reporting on a football match and providing factual information about the game, without expressing any emotion or opinion. It does not contain language that suggests excitement, disappointment, or any other emotional tone, which are typical characteristics of positive or negative sentiments.",positive,0,Referees,Match Play,Match Play,0,'Match Play',Match Play,0,"Here are the extracted named entities:
+
+1. Player names:
+	* Enner Valencia
+2. Team/country names:
+	* Ecuador
+	* Qatar
+3. Venue: 
+	* (No specific venue mentioned in this tweet)","{""players"": [""Enner Valencia""], ""teams"": [""Ecuador"", ""Qatar"", ""Valencia""], ""venues"": []}",1,"[""Enner Valencia""]","[""Ecuador"", ""Qatar"", ""Valencia""]",[]
+79,"After bribing referee, and try possible way to fix the match and deny the first goal, the justice has been served, Qatar 0 - 1 Equador ( #Valencia penalty). #WorldCup2022",neutral,negative,negative,0,"Based on the tweet's content, I would classify its sentiment as:
+
+negative
+
+Although the tweet mentions ""justice has been served"" and a positive outcome for Ecuador, the tone of the message is still critical and negative towards the referee's initial decision. The use of phrases like ""bribing referee"" also implies corruption and unfairness, which contributes to the overall negative sentiment.",positive,0,Referees,Referees,Referees,1,'Referees',Referees,1,"Here are the extracted named entities:
+
+**Player Names:**
+
+* Valencia (note: Valencia is a surname, but in this context, it's likely referring to the football player)
+
+**Team/Country Names:**
+
+* Qatar
+* Ecuador
+
+**Venues:**
+None mentioned directly in the tweet. However, it can be inferred that the match took place at a stadium in Qatar, as the World Cup 2022 is being held there.
+
+Let me know if you'd like me to clarify anything!","{""players"": [], ""teams"": [""Qatar"", ""Equador""], ""venues"": []}",1,[],"[""Qatar"", ""Equador""]",[]
+80,Goal! Ecuador!!! 3-0 (2-0 with VAR Ref who got paid off 1-0). Valencia!!! 🇪🇨 #WorldcupQatar2022 #WorldCup2022,positive,Negative,negative,0,"Based on the tweet, I would classify its sentiment as:
+
+Negative
+
+Although the tweet contains words like ""Goal"" and ""Ecuador"", which are typically associated with positive emotions, the tone of the tweet is critical and sarcastic. The mention of a disputed VAR decision (""who got paid off"") implies that the author is unhappy with the outcome of the match, making the overall sentiment negative.",positive,1,Referees,Match Play,Match Play,0,Match Play,Match Play,0,"Here are the extracted named entities:
+
+* Player names: None mentioned
+* Team/country names:
+	+ Ecuador
+	+ Valencia (presumably referring to Valencia CF, a Spanish football club)
+* Venues: None mentioned","{""players"": [], ""teams"": [""Ecuador"", ""Valencia""], ""venues"": []}",1,[],"[""Ecuador"", ""Valencia""]",[]
+81,"I literally hope Ecuador, Netherlands and Senegal humiliate Qatar on the football friend in Group A. #WorldCup2022 #Qatar2022",negative,Negative,negative,1,"Based on the tweet's content, I would classify its sentiment as:
+
+ Sentiment: positive
+
+The user is expressing a strong desire for their preferred teams to win, using enthusiastic language (""humiliate"") and hashtags that indicate support for those teams. This suggests a positive sentiment towards the outcome of the match.",positive,0,Match Play,Match Play,Match Play,1,Match Play,Match Play,1,"Here are the extracted named entities:
+
+1. Player Names:
+	* None (no specific player names mentioned)
+2. Team/Country Names:
+	* Ecuador
+	* Netherlands
+	* Senegal
+	* Qatar
+3. Venue:
+	* None (the tweet mentions a ""football friend"" but does not specify a particular venue)","{""players"": [], ""teams"": [""Ecuador"", ""Netherlands"", ""Senegal"", ""Qatar""], ""venues"": []}",1,[],"[""Ecuador"", ""Netherlands"", ""Senegal"", ""Qatar""]",[]
+82,Goals in WC Enner Valencia; 2 Pessi; 0 Penaldo; 0 But I’m made to believe they’re goats 🐐 #FIFAWorldCup #Qatar2022 #WorldCup2022 #WorldCup #FIFAWorldCup2022 #ennervalencia𓃵 #Ronaldo𓃵 #Ronaldo #ronaldomessi #Messi𓃵 #Messi,positive,positive,positive,1,"The sentiment of the tweet is neutral. The text appears to be a factual report of goals scored in a World Cup match, with no emotional tone or opinion expressed.",neutral,0,Match Play,Match Play,Match Play,1,Match Play,Match Play,1,"Here are the extracted named entities:
+
+1. Player Names:
+	* Enner Valencia
+	* Pessi (first name not mentioned, but likely referring to Pessi Mägi, an Estonian footballer)
+	* Penaldo (likely referring to Cristiano Ronaldo)
+2. Team/Country Names:
+	* None explicitly mentioned in the tweet, but implied through the context of the World Cup.
+3. Venue:
+	* Qatar2022 (referring to the 2022 FIFA World Cup held in Qatar)","{""players"": [""Enner Valencia"", ""Pessi"", ""Penaldo"", ""Ronaldo"", ""messi""], ""teams"": [], ""venues"": []}",1,"[""Enner Valencia"", ""Pessi"", ""Penaldo"", ""Ronaldo"", ""messi""]",[],[]
+83,The player from Ecuador 🇪🇨 Enner Valencia has scored the first goal of the #Qatar2022 World Cup against Qatar 🇶🇦 from the penalty spot. It is the first time in the history of the World Cups that the first goal is scored in this way. #WorldCup2022 #WorldCup #MundialQatar2022,neutral,Positive,positive,0,"Sentiment: positive
+
+The tweet expresses excitement and enthusiasm about a significant event (the first goal being scored from the penalty spot) and includes hashtags that are typically associated with positive emotions, such as celebration and triumph.",positive,0,Referees,Match Play,Match Play,0,Match Play,Match Play,0,"Here are the extracted named entities:
+
+1. Player:
+	* Enner Valencia
+2. Team/Country:
+	* Ecuador
+	* Qatar (mentioned twice)
+3. Venue: None mentioned directly, but implied as the Al Bayt Stadium in Lusail, Qatar, which is a common venue for World Cup matches.","{""players"": [""Enner Valencia""], ""teams"": [""Ecuador"", ""Qatar""], ""venues"": []}",1,"[""Enner Valencia""]","[""Ecuador"", ""Qatar""]",[]
+84,Is Qatar really playing today? I don’t think they have shot at goal once in the game ☹️ Ecuador doing their game and winning clearly as no opposition #WorldCup2022 #FIFAWorldCup,negative,Negative,negative,1,"Based on the tweet, I would classify its sentiment as:
+
+Negative
+
+Although the tweet mentions a positive outcome (Ecuador winning), the tone is primarily negative due to the frustration expressed with Qatar's performance and the use of an emoji ☹️, which indicates disappointment. The hashtags #WorldCup2022 and #FIFAWorldCup also suggest that the author is unhappy with the game.",positive,0,Match Play,Match Play,Match Play,1,Match Play,Match Play,1,"Here are the extracted named entities:
+
+1. Player names:
+	* None mentioned directly, but it can be inferred that there are players from both Qatar and Ecuador participating in the game.
+2. Team/country names:
+	* Qatar
+	* Ecuador
+3. Venue: 
+	* No specific venue is mentioned, but it can be inferred that the tweet refers to a match taking place during the 2022 FIFA World Cup, which was held in various stadiums across Qatar.","{""players"": [], ""teams"": [""Qatar"", ""Ecuador""], ""venues"": []}",1,[],"[""Qatar"", ""Ecuador""]",[]
+85,E. Valencia has already scored 2 goals at the 16th and 31st minutes of the game one goal being a penalty. Congratulations to Ecuador. They would most likely win the 1st match. #FIFAWorldCup #FIFAWorldCup2022 #Qatar2022 #WorldCup2022,positive,positive,positive,1,"Positive.
+
+The tweet expresses enthusiasm and optimism about the performance of E. Valencia, a player from Ecuador, and predicts their likely win in the first match, indicating a positive sentiment towards the team's prospects.",positive,1,Referees,Match Play,Match Play,0,Match Play,Match Play,0,"Here are the extracted named entities:
+
+* Player: E. Valencia
+* Team/Country:
+	+ Ecuador
+* Venue: None (mentioned is a specific match, but no venue is specified)","{""players"": [], ""teams"": [""Ecuador"", ""E. Valencia""], ""venues"": []}",1,[],"[""Ecuador"", ""E. Valencia""]",[]
+86,"Fuck #Qatar, fuck #var and fuck #fifa #corruption . From the world, come on #Ecuador, smash them in the second half. #ennervalencia𓃵 #WorldCup #WorldCup2022 #Qatar2022",negative,Negative,negative,1,"The sentiment of this tweet is negative. Although it expresses support for Ecuador and uses positive language to encourage them, the overall tone is critical and angry towards FIFA, VAR, and Qatar due to corruption allegations.",positive,0,Referees,Match Play,Match Play,0,'Match Play',Match Play,0,"Here are the extracted named entities:
+
+1. Player names:
+	* None mentioned directly
+2. Team/country names:
+	* Ecuador
+	* Qatar (mentioned multiple times)
+3. Venues:
+	* None mentioned directly, but implied as the World Cup venue in Qatar (Qatar2022)","{""players"": [], ""teams"": [""Ecuador""], ""venues"": []}",1,[],"[""Ecuador""]",[]
+87,"Thus, the match referee and VAR referee decided that the Ecuadorian goal was offside. The bank accounts of the Qatar match referees should be monitored. #QatarWorldCup #WorldCup2022 #Ecuador",neutral,negative,negative,0,"Based on the tweet's content, I would classify its sentiment as:
+
+Negative
+
+The language used is critical and accusatory towards the referees, implying that they made a bad decision and suggesting that their actions may be motivated by personal gain. The tone is also somewhat angry and confrontational, which further reinforces the negative sentiment.",negative,0,Referees,Referees,Referees,1,'Referees',Referees,1,"Here are the extracted named entities:
+
+1. Player names: None
+2. Team/country names:
+	* Ecuador
+	* Qatar
+3. Venue: None (mentioned is a specific match, but no venue is specified)","{""players"": [], ""teams"": [""Ecuador"", ""Qatar""], ""venues"": []}",1,[],"[""Ecuador"", ""Qatar""]",[]
+88,Hard not to pick Brazil to win #WorldCup2022. Mane and Benzema missing hurts Senegal and France's chances. England is trending in the wrong direction. Serbia and Ghana are my dark horses. Did a bracket. #fun,negative,Neutral,neutral,0,"Based on the tweet, I would classify its sentiment as:
+
+Neutral
+
+Although the user expresses some opinions about the World Cup teams and their chances of winning, they also mention that it's ""just for fun"" (implied by the hashtag ""#fun"") and don't seem to be strongly invested in any particular outcome. The tone is casual and informative rather than emotional or persuasive.",neutral,0,Match Play,Match Play,Match Play,1,Match Play,Match Play,1,"Here are the extracted named entities:
+
+1. Player names:
+	* Mane (presumably Sadio Mané, but first name not specified)
+	* Benzema (Karim Benzema)
+
+2. Team/country names:
+	* Brazil
+	* Senegal
+	* France
+	* England
+	* Serbia
+	* Ghana
+
+3. Venue: None mentioned directly in the tweet.","{""players"": [""Mane"", ""Benzema""], ""teams"": [""Brazil"", ""Senegal"", ""France"", ""England"", ""Serbia"", ""Ghana""], ""venues"": []}",1,"[""Mane"", ""Benzema""]","[""Brazil"", ""Senegal"", ""France"", ""England"", ""Serbia"", ""Ghana""]",[]
+89,VAR is killing the game of football. #QatarWorldCup2022 #WorldCup2022 #EcuadorvsQatar #ECUQAT,negative,Negative,negative,1,"Based on the tweet, I would classify its sentiment as:
+
+Negative
+
+The language used in the tweet, such as ""killing"" and ""disgrace"", indicates a strong negative emotion towards VAR. The hashtags also suggest that the user is expressing frustration or disappointment with the VAR system during the World Cup match.",negative,1,Referees,Match Play,Match Play,0,Referees,Referees,1,"Here are the extracted named entities:
+
+1. Player Names:
+	* None mentioned in this tweet.
+
+2. Team/Country Names:
+	* Ecuador
+	* Qatar
+
+3. Venues:
+	* None mentioned in this tweet (the World Cup is often held at multiple venues, but none are specified in this particular tweet).","{""players"": [], ""teams"": [""Ecuador"", ""Qatar""], ""venues"": []}",1,[],"[""Ecuador"", ""Qatar""]",[]
+90,"At this very moment, the fate of the Qatar team has been determined. Ecuador didn't come to play. If buying goals was allowed, the host team would have been saved. #FIFAWorldCup #WorldCup2022 #WorldcupQatar2022 #WorldCup #hweneaokyere #ghanablackstars",negative,negative,negative,1,"Based on the tweet's content and tone, I would classify its sentiment as:
+
+Negative
+
+Although the tweet mentions a positive event (the goal), it also expresses frustration and disappointment with the referee's performance and the perceived unfairness of the match. The overall tone is critical and disapproving, indicating a negative sentiment.",positive,0,Match Play,Match Play,Match Play,1,Match Play,Match Play,1,"Here are the extracted named entities:
+
+1. Player names:
+	* None mentioned directly, but ""hweneaokyere"" is likely a reference to Ghanaian footballer, Kwasi Owusu-Adjei (also known as Kwame Owusu Adjei), however I couldn't confirm this.
+2. Team/country names:
+	* Qatar
+	* Ecuador
+	* Ghana
+3. Venue:
+	* None mentioned directly, but implied to be the stadium in Qatar where the match took place.","{""players"": [], ""teams"": [""Ecuador"", ""Qatar""], ""venues"": []}",1,[],"[""Ecuador"", ""Qatar""]",[]
+91,Looking at the wall chart….France Belgium &amp; Brazil Argentina semi finals for me with an Argentina France final. Argentina to win it. #WorldCup #WorldCup2022 #QatarWorldCup2022 #qatar #WorldcupQatar2022,positive,positive,positive,1,"Positive.
+
+The tweet expresses enthusiasm and optimism about the upcoming World Cup, mentioning specific teams that the author thinks will do well and predicting a potential winner. The tone is excited and confident.",positive,1,Match Play,Match Play,Match Play,1,Match Play,Match Play,1,"Here are the extracted named entities:
+
+1. Player names:
+	* None mentioned in this tweet.
+2. Team/country names:
+	* France
+	* Belgium
+	* Brazil
+	* Argentina
+3. Venue:
+	* Qatar (referring to the 2022 FIFA World Cup, which was held in Qatar)","{""players"": [""Argentina"", ""Brazil""], ""teams"": [""France"", ""Belgium"", ""Argentina"", ""Brazil""], ""venues"": []}",1,"[""Argentina"", ""Brazil""]","[""France"", ""Belgium"", ""Argentina"", ""Brazil""]",[]
+92,Disappointing result for the hosting side Qatar as they lose their opening match against Ecuador. Enner Valencia scored a brace as Ecuador overpowered Qatar on Sunday in World Cup Group A opener. #WorldCup2022 #FIFAWorldCupQatar2022 #BetNaBongobomgo,negative,Negative,negative,1,The sentiment of the tweet is: negative,negative,1,Logistics/Hosting,Match Play,Match Play,0,Match Play,Match Play,0,"Here are the extracted named entities:
+
+1. Player names:
+	* Enner Valencia
+2. Team/country names:
+	* Qatar
+	* Ecuador
+3. Venue: 
+	* (Not explicitly mentioned, but implied as the World Cup venue is in Qatar)","{""players"": [""Enner Valencia""], ""teams"": [""Ecuador"", ""Qatar""], ""venues"": []}",1,"[""Enner Valencia""]","[""Ecuador"", ""Qatar""]",[]
+93,"⚽️Ecuador won the first match in #WorldCup2022 🥳Congrats to them! As well as our 8,000,000 $Bingo 🤩Winners for Goal Event!🎉 Due to there were no Player NFTs trigger Yellow Card and Red Card Events 7,000,000 $Bingo has been burnt #Tomorrowland #GameFi #FreeMint #BNBChain",positive,positive,positive,1,"The sentiment of the tweet is neutral. The text appears to be a promotional message for an event or game related to football (specifically, the World Cup), and it does not express any emotions or opinions about the match itself. It's more focused on announcing details and promoting a specific aspect of the event.",neutral,0,Referees,Logistics/Hosting,Logistics/Hosting,0,'Match Play',Match Play,0,"Here are the extracted named entities:
+
+1. **Player Names:**
+	* None mentioned in this tweet (as it's not about a specific player)
+2. **Team/Country Names:**
+	* Ecuador
+3. **Venues:**
+	* None mentioned in this tweet
+4. **Other:**
+	* World Cup 2022 (tournament/event, not a team or venue)","{""players"": [], ""teams"": [""Ecuador""], ""venues"": []}",1,[],"[""Ecuador""]",[]
+94,Why am I getting this gut feeling that Senegal will go and lose to Ecuador after dropping all three points against Netherlands tomorrow? 😬😬😬 #WorldCup2022 #FIFAWorldCup #EndSARS,negative,Negative,negative,1,"Negative.
+
+The tweet expresses a pessimistic sentiment about the team's chances of winning, using phrases like ""gut feeling"" and multiple crying emojis (😬), which convey anxiety and disappointment.",negative,1,Match Play,Referees,Referees,0,Match Play,Match Play,1,"Here are the extracted named entities:
+
+1. Player names:
+	* None mentioned in this tweet.
+2. Team/country names:
+	* Senegal
+	* Ecuador
+	* Netherlands
+3. Venue: 
+	* None mentioned in this tweet, but it's implied that the next match will be played at a World Cup venue (not specified).","{""players"": [], ""teams"": [""Senegal"", ""Ecuador"", ""Netherlands""], ""venues"": []}",1,[],"[""Senegal"", ""Ecuador"", ""Netherlands""]",[]
+95,So in my #WorldCup2022 pool I've got: Ecuador 🇪🇨 Australia 🇦🇺 France 🇫🇷 Spain 🇪🇸 Canada 🇨🇦 Croatia 🇭🇷 South Korea 🇰🇷 Uruguay 🇺🇾,neutral,Neutral,neutral,1,"Neutral.
+
+The tweet is simply listing teams participating in a World Cup pool, without expressing any opinion or emotion.",neutral,1,Match Play,Match Play,Match Play,1,Match Play,Match Play,1,"Here are the extracted named entities:
+
+1. Player names: None mentioned in this tweet.
+2. Team/country names:
+   - Ecuador
+   - Australia
+   - France
+   - Spain
+   - Canada
+   - Croatia
+   - South Korea
+   - Uruguay
+
+3. Venue: None mentioned in this tweet.","{""players"": [""Ecuador"", ""Australia"", ""France"", ""Spain"", ""Canada"", ""Croatia"", ""South Korea"", ""Uruguay""], ""teams"": [""Ecuador"", ""Australia"", ""France"", ""Spain"", ""Canada"", ""Croatia"", ""South Korea"", ""Uruguay""], ""venues"": []}",1,"[""Ecuador"", ""Australia"", ""France"", ""Spain"", ""Canada"", ""Croatia"", ""South Korea"", ""Uruguay""]","[""Ecuador"", ""Australia"", ""France"", ""Spain"", ""Canada"", ""Croatia"", ""South Korea"", ""Uruguay""]",[]
+96,Happy World Cup Day!!! Which of these soccer stars are going to score more goals in this upcoming World Cup? ⚽ 💥 Paradise Breaks with two absolute bangers 🔥🔥🔥 Mbappe' or Neymar? #worldcup2022 #worldcupqatar2022 #neymar #mbappe #worldcup #soccercards,positive,positive,positive,1,"Positive.
+
+The tweet contains enthusiastic language, such as ""Happy World Cup Day!!!"", and expresses excitement about the upcoming match, with emojis like ⚽ 💥 🔥🔥🔥 indicating a positive tone. The comparison of two soccer stars also suggests a sense of anticipation and optimism.",positive,1,Match Play,Match Play,Match Play,1,Match Play,Match Play,1,"Here are the extracted named entities:
+
+1. Player names:
+	* Mbappe
+	* Neymar
+2. Team/Country names:
+	* None explicitly mentioned, but implied as part of the World Cup context.
+3. Venue:
+	* Qatar (implied by ""World Cup Qatar 2022"")","{""players"": [""Mbappe"", ""Neymar""], ""teams"": [], ""venues"": []}",1,"[""Mbappe"", ""Neymar""]",[],[]
+97,"Germany vs Japan Live Stream, Live On:@LinkBoxing 🆚Germany vs Japan 🗓️Wednesday, November 23, 2022 ⏰1:00 PM GMT 🏟️Khalifa International Stadium, Doha, Qatar 🏆FIFA World Cup 2022 #Germany #FIFAWorldCup2022 #GermanyvsJapan #Qatar2022 #WorldCup2022 #Japan",neutral,Neutral,neutral,1,"Based on the tweet's content, I would classify its sentiment as:
+
+positive
+
+Although the tweet is primarily informative about a live stream and match details, it ends with several hashtags related to FIFA World Cup 2022, which suggests excitement and enthusiasm for the event. The tone of the tweet seems energetic and anticipatory, indicating a positive sentiment.",positive,0,Logistics/Hosting,Match Play,Match Play,0,Logistics/Hosting,Logistics/Hosting,1,"Here are the extracted named entities:
+
+1. Player names: None mentioned in this tweet.
+2. Team/country names:
+	* Germany
+	* Japan
+3. Venue:
+	* Khalifa International Stadium
+4. Event:
+	* FIFA World Cup 2022","{""players"": [], ""teams"": [""Germany"", ""Japan""], ""venues"": [""Khalifa International Stadium, Doha, Qatar""]}",1,[],"[""Germany"", ""Japan""]","[""Khalifa International Stadium, Doha, Qatar""]"
+98,"What's in store on Day 2 of the #WorldCup2022? Check out our daily round-up piece to view all of the best bets, tips and odds for the England vs Iran, Senegal vs Netherlands, and USA vs Wales games ⚽️ BeGambleAware +18",neutral,Neutral,neutral,1,"Based on the tweet's content, I would classify its sentiment as neutral. The tweet is providing factual information about the World Cup schedule and does not express any opinion or emotion. It appears to be a promotional message for a betting piece, but it doesn't convey a positive or negative tone.",positive,0,Match Play,Match Play,Match Play,1,Match Play,Match Play,1,"Here are the extracted named entities:
+
+1. Player names:
+	* None mentioned in this tweet.
+2. Team/country names:
+	* England
+	* Iran
+	* Senegal
+	* Netherlands
+	* USA
+	* Wales
+3. Venue: 
+	* None mentioned in this tweet (the World Cup is a global tournament, but no specific venue is specified).","{""players"": [], ""teams"": [""England"", ""Iran"", ""Senegal"", ""Netherlands"", ""USA"", ""Wales""], ""venues"": []}",1,[],"[""England"", ""Iran"", ""Senegal"", ""Netherlands"", ""USA"", ""Wales""]",[]
+99,The historic match between Germany and Brazil. I remember a night where many Brazilian fans cried. Do you remember this night? #Worlds2022 #WorldCup2022 #Qatar2022 #Qatar #QatarWorldCup2022 #Cup #FIFAWorldCup #FIFAWorldCup2022,positive,Neutral,neutral,0,"The sentiment of the tweet is: positive
+
+Although the tweet mentions a ""historic match"" and a night where Brazilian fans cried, it's framed as a nostalgic and possibly sentimental memory rather than a negative experience. The tone is reflective and celebratory, suggesting that the overall sentiment is positive.",positive,1,Match Play,Match Play,Match Play,1,Match Play,Match Play,1,"Here are the extracted named entities:
+
+1. Player names:
+	* None mentioned in this tweet.
+2. Team/country names:
+	* Germany
+	* Brazil
+3. Venues:
+	* Qatar (referring to the 2022 FIFA World Cup venue)","{""players"": [], ""teams"": [""Germany"", ""Brazil""], ""venues"": []}",1,[],"[""Germany"", ""Brazil""]",[]
+100,🏆World Cup 2022🏆 Today’s Matches: 🔸England vs Iran 🔸Senegal vs Netherlands 🔸USA vs Wales Who will take the lead in Groups A &amp; B?🤔 #WorldCup2022 #WorldcupQatar2022,neutral,Neutral,neutral,1,"The sentiment of the tweet is neutral. The tweet appears to be a factual announcement about the World Cup matches, without expressing any opinion or emotion.",neutral,1,Match Play,Match Play,Match Play,1,Match Play,Match Play,1,"Here are the extracted named entities:
+
+1. Player Names:
+	* None mentioned directly, but teams are mentioned.
+2. Team/Country Names:
+	* England
+	* Iran
+	* Senegal
+	* Netherlands
+	* USA
+	* Wales
+3. Venues:
+	* Qatar (implied by ""World Cup 2022"" and ""Qatar 2022"", but not explicitly mentioned as a venue)
+4. Other:
+	* World Cup","{""players"": [], ""teams"": [""England"", ""Iran"", ""Senegal"", ""Netherlands"", ""USA"", ""Wales""], ""venues"": []}",1,[],"[""England"", ""Iran"", ""Senegal"", ""Netherlands"", ""USA"", ""Wales""]",[]
